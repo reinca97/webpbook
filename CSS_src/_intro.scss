@@ -1,0 +1,76 @@
+body{
+  color:white;
+}
+
+
+.intro {
+  &-gaudium {
+    font-family: "Century Gothic", sans-serif;
+    font-size: 25px;
+    float: left;
+    margin: 60px 100px 0;
+  }
+
+  &-bg {
+    background: url(../images/intro_bg.png) no-repeat;
+    background-size: 100% auto;
+    position: relative;
+    height: 0;
+    padding-bottom: 50%;
+    z-index: 1;
+  }
+
+  &-header {
+    height: 100px;
+    &:after {
+      content: "";
+      display: block;
+      clear: both;
+    }
+
+  }
+}
+
+
+
+
+
+.logo-webpbook{
+  background: url(../images/image_sprite.png) no-repeat 0 -60px;
+  width:230px;height:100px;
+  text-indent:-9999px;
+  float:right;
+  margin:5px 100px 0;
+}
+
+
+
+
+/*중앙 타이틀*/
+
+.intro-title{
+  font-family:"Antro Vectra";
+  font-size:48px;
+  width:380px;
+  text-align:center;
+
+  &-wrap{
+    position:absolute;
+    top:35%;left:calc(50% - 190px);}
+
+}
+
+
+/*하단 플레이어*/
+.music-player-wrap{
+  width:1000px;
+  position:absolute;
+  bottom:100px;
+  left:calc(50% - 691px);
+}
+
+.song-title{
+  width:490px;
+  font-size:28px;
+  float:left;
+}
