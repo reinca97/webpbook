@@ -1,23 +1,86 @@
 /*logo & menu*/
-.menu-header{
-  z-index:99;
-  &:after{content:"";display: block; clear:both;}
+.header{
+position:fixed;
+  width:100%;
+}
 
+.menu-icon-wrap{
+  position:relative;
+  margin: 0 auto;
+  //background:red;
 }
 
 
 
-.menu-header>.logo-gaudium{
+
+.logo-gaudium{
   background: url(../images/image_sprite.png) no-repeat 0 -170px;
   width:110px;height:130px;
   text-indent:-9999px;
-  position:absolute;top:5%;left:5%;
+  position:relative;top:30px;left:2%;
+  padding-right:1200px;
 
 }
 
-.menu-header>.btn-menu{
-  background: url(../images/btn_menu.png);
-  width:60px;height:37px;
-  text-indent:-9999px;
-  position:absolute;top:7%;right:5%;
+
+
+.menu {
+&-btn{
+  position:absolute;
+  right:5%;top:45%;
+  }
+
+  &-text {
+    background: #fff;
+    position: absolute;
+    height: 3px;
+    width: 60px;
+    display: block;
+    outline: 0;
+    border: none;
+    cursor: pointer;
+    text-indent:-9999px;
+
+    &:before {
+      content: "";
+      display: block;
+      background: #fff;
+      position: absolute;
+      top: -15px;
+      left: 0;
+      height: 3px;
+      width: 60px;
+
+    }
+    &:after {
+      content: "";
+      display: block;
+      background: #fff;
+      position: absolute;
+      top: 15px;
+      left: 0;
+      height: 3px;
+      width: 60px;
+    }
+
+  }
+
 }
+
+
+.manu_btn.active {
+
+
+  &:before{
+  }
+
+  &:after{
+
+  }
+
+
+
+}
+
+
+
