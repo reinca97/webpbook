@@ -3,14 +3,21 @@
 $(function(){
 
 
-    $('.menu-btn').data({'clicked':true}).on('click',function(){
+    $('.menu-btn').on('click',function(){
 
-        if($(this).data().clicked){
-            $(this).addClass('active').data({'clicked':false});
-        }else{
-            $(this).removeClass('active').data({'clicked':true});
-        }
+        $('.gnb').addClass('active');
+    });
+
+
+
+
+    $('.gnb-exit-btn').on('click',function(){
+
+            $('.gnb').removeClass('active');
+
+
     })
+
 
 
 

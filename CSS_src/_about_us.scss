@@ -1,0 +1,76 @@
+
+.about-us{
+  background: url(../images/about_us_bg.png) no-repeat 0 0;
+  width:100%;
+  padding-bottom:200px;
+
+  .sub-title{
+    padding:100px 0;
+    width:900px;
+    font-size:50px;
+    margin:0 auto;
+  }
+
+  .inner-box{
+    width:973px;
+    margin:0 auto;
+    position:relative;
+
+
+
+      .logo-webpbook-02{
+        background: url(../images/image_sprite.png) no-repeat -230px 0;
+        width:135px; height:165px;
+        position:absolute;
+        right:23%;top:18%;
+        margin:0;
+        text-indent:-9999px;
+      }
+
+
+
+    }
+
+
+    .text-st{
+      &-01{
+        font-family:"Nanum Pen Script", sans-serif;
+        font-size:25px;
+      }
+      &-02{
+        font-size:20px;
+        padding-bottom:30px;
+      }
+      &-03{
+        font-size:25px;
+        text-align: center;
+
+        &:first-child{
+        margin:150px 0 30px 0;}
+
+        &:nth-child(4){
+          margin-bottom:30px; }
+
+        &:last-child{
+          margin: 30px 0 150px 0;
+        }
+
+      }
+
+    }
+
+
+  .full-width{
+    margin:130px 0;
+    background:black;
+    opacity:0.5;
+    width:100%;
+    position:absolute;
+
+  }
+
+
+
+
+  }
+
