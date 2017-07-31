@@ -1,19 +1,187 @@
+/**section 공통사용 css**/
+
+.inner-box{
+  width:1120px;
+  margin:0 auto;
+
+}
+
+.sero-bar{
+
+&:after{
+  content:"";display:block;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5e3f68+1,974659+100 */
+  background: rgb(94,63,104); /* Old browsers */
+  background: -moz-linear-gradient(top, rgba(94,63,104,1) 1%, rgba(151,70,89,1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(94,63,104,1) 1%,rgba(151,70,89,1) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(94,63,104,1) 1%,rgba(151,70,89,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5e3f68', endColorstr='#974659',GradientType=0 ); /* IE6-9 */
+}
+  &-wrap{position:relative;}
 
 
+}
+
+
+.sub-title {
+  font-size: 80px;
+ }
+
+/**********section1*********/
 .section1{
   background:url(../images/player_detail_bg1.png) no-repeat 0 0;
   width:100%;height:1279px;
-}
+
+  >.inner-box:after{
+    content:"";display:block;clear:both;  }
+
+  .introduce-sub-title{
+    width:50%; height:950px;
+    float:left;
+    margin-top:300px;
+
+    &> p{
+      font-family:"Antro Vectra",sans-serif;
+      font-size:48px;
+      width:375px; height:80px;
+      text-align:center;
+  }
 
 
+
+  }
+
+  .introduce-text{
+    width:50%; height:950px;
+    overflow:auto;
+    float:left;
+    margin-top:200px;
+
+    &::-webkit-scrollbar-track
+    {
+      -webkit-box-shadow: inset 0 0 3px rgba(0,0,0,0.3);
+      background-color: black;
+    }
+
+    &::-webkit-scrollbar
+    {
+      width: 3px;
+      background-color: darkgray;
+    }
+
+    &::-webkit-scrollbar-thumb
+    {
+      background-color: black;
+      border: 2px solid gray;
+    }
+
+
+
+
+
+
+    &> p{
+      text-indent:15px;
+      margin-bottom:10px;
+    }
+  }
+
+
+
+}//section1 끝
+
+
+
+
+/**********section2*********/
 .section2{
-  background:black;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+1,000000+52,000000+100&0+1,1+10,1+52,1+90,0+100 */
+  background: -moz-linear-gradient(top, rgba(0,0,0,0) 1%, rgba(0,0,0,1) 10%, rgba(0,0,0,1) 52%, rgba(0,0,0,1) 90%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(0,0,0,0) 1%,rgba(0,0,0,1) 10%,rgba(0,0,0,1) 52%,rgba(0,0,0,1) 90%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 1%,rgba(0,0,0,1) 10%,rgba(0,0,0,1) 52%,rgba(0,0,0,1) 90%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
+
   height:950px;
   padding:150px 0;
+
+
+  .pic-conductor{
+    float:left;
+    margin:40px 72px 0 0;
+  }
+
+
+  .sero-bar:after{
+    width:20px;
+    height:720px;
+    position:absolute;
+    top:140px;right:0;
+
+
+  }
+
+  .sub-title {
+    float: right;
+    width: 640px;
+    height: 85px;
+    margin-bottom: 50px;
+    text-align: right;
+
+    &-text {
+      width:1050px;
+
+      text-indent: 15px;
+      text-align: left;
+      margin-bottom: 10px;
+
+    }
+
+  }
+
 }
 
 
-.section3{
-  background:url(../images/player_detail_bg3.png) no-repeat 0 0;
-  width:100%;height:1067px;
+
+/**********section3*********/
+.section3 {
+  background: url(../images/player_detail_bg3.png) no-repeat 0 0;
+  width: 100%;
+  height: 1067px;
+  padding-top:150px;
+
+  .sero-bar:after {
+    width: 20px;
+    height: 670px;
+    position: absolute;
+    top: 180px;
+    left: 0;
+
+  }
+
+
+
+  .sub-title {
+    float: right;
+    width: 710px;
+    height: 85px;
+    line-height:80px;
+    text-align: right;
+
+
+
+    &-text {
+      width: 650px;
+      text-indent: 15px;
+      text-align: left;
+      margin-bottom: 10px;
+      padding:170px 0 0 30px;
+      box-sizing: border-box;
+
+
+      & >p{margin-bottom:20px;}
+
+    }
+
+  }
+
 }
