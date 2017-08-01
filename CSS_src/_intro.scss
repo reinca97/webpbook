@@ -13,7 +13,7 @@ body{
 
   &-bg {
     background: url(../images/intro_bg.png) no-repeat;
-    background-size: 100% auto;
+
     position: relative;
     height: 0;
     padding-bottom: 50%;
@@ -49,10 +49,11 @@ body{
 /*중앙 타이틀*/
 
 .intro-title{
-  font-family:"Antro Vectra";
+  font-family:"Antro Vectra",sans-serif;
   font-size:48px;
   width:380px;
   text-align:center;
+  padding-bottom:20px;
 
   &-wrap{
     position:absolute;

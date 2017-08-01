@@ -2,6 +2,45 @@
 
 @import "reset";
 
+@font-face {
+  font-family: "Antro Vectra";
+  src: url("../fonts/Antro_Vectra.eot"); /* IE 6~8 */
+  src: local("☺"),
+  url('../fonts/Antro_Vectra.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: "Century Gothic";
+  src: url("../fonts/GOTHIC.eot"); /* IE 6~8 */
+  src: local("☺"),
+  url('../fonts/GOTHIC.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: "SeoulHangang","서울한강체";
+  src: url('../fonts/SeoulHangangM.eot'); /* IE 6~8 */
+  src: local("☺"),
+  url('../fonts/SeoulHangangM.woff') format('woff');
+}
+
+
+
+
+@font-face {
+  font-family: "SeoulNamsan","서울남산체";
+  src: url('../fonts/SeoulNamsanM.eot'); /* IE 6~8 */
+  src: local("☺"),
+  url('../fonts/SeoulNamsanM.woff') format('woff');
+}
+
+
+
+
+
+
+
 @import "intro";
 @import "main";
 @import "header";

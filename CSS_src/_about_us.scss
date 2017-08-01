@@ -1,3 +1,4 @@
+@import url("http://fonts.googleapis.com/earlyaccess/nanumpenscript.css");
 
 .about-us{
   background: url(../images/about_us_bg.png) no-repeat 0 0;
@@ -34,7 +35,7 @@
 
     .text-st{
       &-01{
-        font-family:"Nanum Pen Script", sans-serif;
+        font-family:'Nanum Pen Script', cursive;
         font-size:25px;
       }
       &-02{
