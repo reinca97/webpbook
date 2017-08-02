@@ -9,6 +9,7 @@
     width:1600px;
     position:relative;
     margin-top: 2%;
+    overflow:hidden;
 
     &:after{
       content:"";display:block;clear:both;
@@ -55,13 +56,8 @@
     top:0 ; left:0;
   }
 
-.drawer-wrap{
-  width:1600px;
-}
 
-  .drawer-wrap.shut{
-    width:0;
-  }
+
 
 
 
