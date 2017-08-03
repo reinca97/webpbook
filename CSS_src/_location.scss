@@ -2,44 +2,70 @@
   background:url(../images/location_bg.png) no-repeat fixed  0 0;
   width:100%;height:1280px;
   padding-top:50px;
+  overflow:hidden;
+  cursor: pointer;
   //overflow:hidden; //지우고 각 drawer 에 wrapper 만들어서 적용
   //wrapper에 길이 값 조정
 
+  :after{ content:"";display:block;clear:both;}
+
   .drawer-upside, .drawer-downside{
-    width:1600px;
+    width:80%;
     position:relative;
-    margin-top: 2%;
+    margin-top: 50px;
     overflow:hidden;
 
     &:after{
       content:"";display:block;clear:both;
     }
 
+
+
+
   }
   .drawer-upside{
-    left:400px;
+    right:0;
     height:438px;
+    float:right;
+    transition:width 1s cubic-bezier(0.62,-0.07, 0.6, 1.5);
 
     .dimmed{ height:438px;}
 
     .sero-bar:after{
       width:20px; height:438px;
+      left:0;
     }
 
+
+
   }
+
   .drawer-downside{
-    right:400px;
+    left:0;
     height:570px;
+   top:50px;
+    position:relative;
+    transition:width 1s cubic-bezier(0.62,-0.07, 0.6, 1.5);
 
     .sero-bar:after{
       width:20px; height:570px;
       position:absolute;
       right:0;
+
     }
 
 
 
   }
+
+
+
+ //   javascript  작동클래스 .shut
+
+  .drawer-upside.shut{width:580px;}
+  .drawer-downside.shut{width:580px;}
+  .wrap-drawer{width:100%;position:absolute;top:488px;}
+
 
   .sub-title{
     font-size:50px;
@@ -49,7 +75,7 @@
 
 
   .dimmed{
-    width:1600px; height:570px;
+    width:100%; height:570px;
     background-color:black;
     opacity:0.7;
     position:absolute;
@@ -73,6 +99,7 @@
     z-index:50;
     position:relative;
     margin-left:50px;
+    height:438px;
 
 
     .sub-title{
@@ -99,7 +126,7 @@
   }
   .calender{
     background:url(../images/calender.png) no-repeat;
-    width:402px; height:398px;
+    width:402px; height:420px;
     text-indent:-9999px;
     display:block;
     float:left;
@@ -157,8 +184,10 @@
     width:465px; height:465px;
     position:relative;
     text-indent:-9999px;
+    top:50px;
     &-link{
-
+      position:absolute;
+      top:0;left:0;
     }
   }
 

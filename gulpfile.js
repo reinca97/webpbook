@@ -52,7 +52,7 @@ gulp.task('sass', function(){
 
 // concat 실행 - 여러 개의 파일을 하나의 파일로 합치는 기능
 gulp.task('jsconcat', function() {
-  return gulp.src('js_src/*.js')
+  return gulp.src('javascript_src/*.js')
       .pipe(sourcemaps.init())
       .pipe(concat('function.js'))
       .pipe(sourcemaps.write())
