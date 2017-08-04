@@ -1,0 +1,52 @@
+
+.replay-detail {
+  background: url(../images/replay_detail_bg.png) no-repeat 0 0 fixed;
+  width: 100%;
+
+  .inner-box{width:1280px;}
+
+.sub-title{
+  width:960px;
+  margin:0 auto;
+  padding-top:100px;
+  text-align:right;
+
+  &-text{
+    font-family:"SeoulHangang",sans-serif;
+    font-size:60px;
+    margin-bottom:10px;
+
+    &-s{
+      font-size:30px;
+      margin-bottom:30px;
+    }
+
+  }
+}
+
+
+
+
+  .garo-bar{
+    &:after{
+      width:710px; height:20px;
+    }
+  }
+
+
+
+  .movie-link{
+
+    margin:100px auto;
+
+  }
+
+  .movie-description{
+    width:960px;
+    margin:0 auto;
+    padding-bottom:100px;
+  }
+
+
+
+}

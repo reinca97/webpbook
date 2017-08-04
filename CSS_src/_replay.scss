@@ -7,6 +7,8 @@
 
 
 
+
+
   .sub-title{
     padding-top:100px;
   }
@@ -19,29 +21,66 @@
 
   .story{
     width:800px;
-    margin: 100px auto;
+    margin: 50px auto;
     padding-bottom: 100px;
     border-bottom: 1px solid white;
+    position:relative;
+
+    //.dimmed {
+    //  width: 800px;
+    //  height: 450px;
+    //  background: black;
+    //  opacity: 0.7;
+    //  position: absolute;
+    //  top: 0;  left: 0;
+    //
+    //  &:hover {
+    //    opacity: 0;
+    //    transition: opacity 0.3s ease-out;
+    //  }
+
+
+   &:last-child{
+
+     margin: 0 auto;
+     border-bottom:0;
+    }
+
+    }
+
+
+  }
 
     .thumbnail-movie{
       margin: 100px auto;
-      &-content{
+
+
+
+      .movie{
         width:800px;
       }
+
     }
 
 
 
 
     .thumbnail-text-wrap{
+      font-family:"Century Gothic", sans-serif;
+
+      .thumbnail-text{
+        margin-bottom:30px;
+      }
+
       .btn-view-more{
         border: 1px solid white;
         background:transparent;
         color:white;
-        font-size:30px;
-        font-family:"Century Gothic", sans-serif;
-
-        float:right;
+        font-size:20px; padding:10px;
+        box-sizing:border-box;
+        //font-family:"Century Gothic", sans-serif;
+        cursor: pointer;
+        margin-left: calc(50% - 62px )
       }
       &:after{
         content:"";display:block;clear:both;
@@ -50,7 +89,6 @@
     }
 
 
-  }
 
 
 
@@ -58,4 +96,5 @@
 
 
 
-}
+
+

@@ -56,7 +56,7 @@ gulp.task('jsconcat', function() {
       .pipe(sourcemaps.init())
       .pipe(concat('function.js'))
       .pipe(sourcemaps.write())
-      .pipe(gulp.dest('js/'));
+      .pipe(gulp.dest('javascript/'));
 });
 
 gulp.task('default',['livereload', 'include', 'sass', 'jsconcat', 'watch']);

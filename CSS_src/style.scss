@@ -1,7 +1,5 @@
 @charset "UTF-8";
 
-@import "reset";
-
 @font-face {
   font-family: "Antro Vectra";
   src: url("../fonts/Antro_Vectra.eot"); /* IE 6~8 */
@@ -19,26 +17,21 @@
 
 
 @font-face {
-  font-family: "SeoulHangang","서울한강체";
+  font-family: "SeoulHangang";
   src: url('../fonts/SeoulHangangM.eot'); /* IE 6~8 */
   src: local("☺"),
   url('../fonts/SeoulHangangM.woff') format('woff');
 }
 
-
-
-
 @font-face {
-  font-family: "SeoulNamsan","서울남산체";
+  font-family: "SeoulNamsan";
   src: url('../fonts/SeoulNamsanM.eot'); /* IE 6~8 */
   src: local("☺"),
   url('../fonts/SeoulNamsanM.woff') format('woff');
 }
 
 
-
-
-
+@import "reset";
 
 
 @import "intro";
@@ -50,3 +43,4 @@
 @import "gnb";
 @import "location";
 @import "replay";
+@import "replay_detail";
