@@ -1,0 +1,47 @@
+
+.program-menu{
+  width:100%; height:38px;
+  color:white;
+
+  font-size:20px;
+
+  &:after{
+    content:"";display:block;clear:both;
+  }
+
+  &-program{
+    font-family:"Century Gothic", sans-serif;
+    width:65%;height:38px;
+    background-color:#5f4069;
+    float:left;
+    text-align:right;
+    padding-right:20px; box-sizing:border-box;
+
+  }
+
+
+  &-composer{
+    font-family:"Century Gothic", sans-serif;
+    width:35%;height:38px;
+    background-color:#974659;
+    float:right;
+    padding-left:20px; box-sizing:border-box;
+  }
+}
+
+.footer-program{
+  width:100%; height:38px;
+  background:black;
+  opacity:0.8;
+
+  color:white;
+  &-text{
+    color:white;
+    text-align:center;
+    width:1120px;
+    margin:0 auto;
+    font-family:"century gothic",sans-serif;
+    font-size:15px;
+  }
+
+}
