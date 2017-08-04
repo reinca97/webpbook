@@ -21,7 +21,7 @@ $(function(){
     //location 의 drawer 클릭 동작
 
 
-    $('.drawer-upside').data({ 'open':false}).on('click',function(){
+    $('.drawer-upside').data({ 'open':true}).on('click',function(){
 
         if( $(this).data().open ){
             $('.drawer-upside').removeClass('shut');
@@ -32,7 +32,7 @@ $(function(){
         }
 
     });
-    $('.drawer-downside').data({ 'open':false}).on('click',function(){
+    $('.drawer-downside').data({ 'open':true}).on('click',function(){
 
         if( $(this).data().open ){
             $('.drawer-downside').removeClass('shut');

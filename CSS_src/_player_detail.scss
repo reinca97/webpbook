@@ -22,6 +22,24 @@
 
 }
 
+.garo-bar{
+
+  &:after{
+    content:"";display:block;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5e3f68+1,974659+100 */
+    background: rgb(94,63,104); /* Old browsers */
+    background: -moz-linear-gradient(left, rgba(94,63,104,1) 1%, rgba(151,70,89,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgba(94,63,104,1) 1%,rgba(151,70,89,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgba(94,63,104,1) 1%,rgba(151,70,89,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5e3f68', endColorstr='#974659',GradientType=0 ); /* IE6-9 */
+  }
+  &-wrap{position:relative;}
+
+
+}
+
+
+
 
 .sub-title {
   font-size: 80px;

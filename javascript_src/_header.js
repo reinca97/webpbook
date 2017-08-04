@@ -16,6 +16,7 @@ $(function(){
     });
 
 
+
     //location 의 drawer 클릭 동작
 
 
@@ -23,11 +24,23 @@ $(function(){
 
         if( $(this).data().open ){
             $('.drawer-upside').removeClass('shut');
-            $(this).data({'open':true});
+            $(this).data({'open':false});
         }else{
             $('.drawer-upside').addClass('shut');
-            $(this).data({'open':false});
+            $(this).data({'open':true});
         }
+
+    });
+    $('.drawer-downside').data({ 'open':false}).on('click',function(){
+
+        if( $(this).data().open ){
+            $('.drawer-downside').removeClass('shut');
+            $(this).data({'open':false});
+        }else{
+            $('.drawer-downside').addClass('shut');
+            $(this).data({'open':true});
+        }
+
     });
 
 
