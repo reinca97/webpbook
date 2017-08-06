@@ -8,7 +8,7 @@
 
 .sero-bar{
 
-&:after{
+&:after, &:before{
   content:"";display:block;
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5e3f68+1,974659+100 */
   background: rgb(94,63,104); /* Old browsers */
@@ -24,7 +24,7 @@
 
 .garo-bar{
 
-  &:after{
+  &:after, &:before{
     content:"";display:block;
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5e3f68+1,974659+100 */
     background: rgb(94,63,104); /* Old browsers */

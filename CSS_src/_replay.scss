@@ -72,16 +72,7 @@
         margin-bottom:30px;
       }
 
-      .btn-view-more{
-        border: 1px solid white;
-        background:transparent;
-        color:white;
-        font-size:20px; padding:10px;
-        box-sizing:border-box;
-        //font-family:"Century Gothic", sans-serif;
-        cursor: pointer;
-        margin-left: calc(50% - 62px )
-      }
+
       &:after{
         content:"";display:block;clear:both;
       }
@@ -95,6 +86,15 @@
 
 
 
-
+.btn-view-more{
+  border: 1px solid white;
+  background:transparent;
+  color:white;
+  font-size:20px; padding:10px;
+  box-sizing:border-box;
+  //font-family:"Century Gothic", sans-serif;
+  cursor: pointer;
+  margin-left: calc(50% - 62px )
+}
 
 
