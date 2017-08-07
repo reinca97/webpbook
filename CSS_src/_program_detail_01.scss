@@ -1,0 +1,25 @@
+.program-detail{
+  .section01{
+    background:url(../images/program_detail01_bg01.png) no-repeat center;
+    width:100%;
+    height:950px;
+
+    .program-list{
+      &-title{
+        padding-top:100px;
+      }
+    }
+
+
+  }
+
+  .music-player-wrap{
+    margin:500px auto 0;
+    padding:50px;
+
+  }
+
+  .pic-01{float:right;}
+
+
+}
