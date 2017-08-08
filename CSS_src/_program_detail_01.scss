@@ -1,4 +1,4 @@
-.program-detail{
+.program-detail-01{
   .section01{
     background:url(../images/program_detail01_bg01.png) no-repeat center;
     width:100%;
@@ -19,7 +19,74 @@
 
   }
 
-  .pic-01{float:right;}
+  .pic-01{float:right;padding-right:20px;}
+
+.section02{
+  background:url(../images/program_detail01_bg02.png) no-repeat center;
+  width:100%;
+  height:950px;
+
+
+  &-text{
+        padding-top:120px;
+    >p{
+
+    }
+  }
+
+}
+
+
+.section03{
+  background:url(../images/program_detail01_bg03.png) no-repeat center;
+  width:100%;
+  height:1279px;
+
+.igor-score{
+  width:600px;
+  margin-top:70px;
+  float:left;}
+
+  &-text{
+    width:450px;
+    margin:70px auto 0;
+    float:right;
+  >p{
+    margin-bottom:50px;
+    }
+  }
+
+}
+
+  .program-nav{
+    width:100%; height:200px;
+    position:absolute;
+    top:3020px;
+    background:black;
+    opacity:0.8;
+
+
+    &-pre{
+      display:block;
+      width:500px;
+      text-align:right; padding:82px 170px;
+      float:left;
+      font-family:"Century Gothic",sans-serif;
+      font-size:30px;
+      cursor:pointer;
+    }
+
+    &-next{
+      display:block;
+      width:500px;
+      text-align:left;padding:82px 360px 82px 200px;
+      float:right;
+      font-family:"Century Gothic",sans-serif;
+      font-size:30px;
+      cursor:pointer;
+    }
+
+  }
 
 
 }

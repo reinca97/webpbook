@@ -4,7 +4,7 @@
 
 $(function(){
 
-  //¸Ş´º¹Ù ¸¶¿ì½º ¿À¹ö½Ã ±æÀÌ º¯°æ
+  //ë©”ë‰´ë°” ë§ˆìš°ìŠ¤ ì˜¤ë²„ì‹œ ê¸¸ì´ ë³€ê²½
 
   $('.program-menu-program').on('mouseenter',function(){
 
@@ -31,11 +31,10 @@ $(function(){
 
 });
 
-////section º° ½ºÅ©·Ñ µ¿ÀÛ
-
+////section ë³„ ìŠ¤í¬ë¡¤ ë™ì‘
 window.onload = function () {
   $(".move-section").each(function () {
-    // °³º°ÀûÀ¸·Î Wheel ÀÌº¥Æ® Àû¿ë
+    // ê°œë³„ì ìœ¼ë¡œ Wheel ì´ë²¤íŠ¸ ì ìš©
     $(this).on("mousewheel DOMMouseScroll", function (e) {
       e.preventDefault();
       var delta = 0;
@@ -49,19 +48,19 @@ window.onload = function () {
       } else if (event.detail) delta = -event.detail / 3;
       var moveTop = null;
 
-      // ¸¶¿ì½ºÈÙÀ» À§¿¡¼­ ¾Æ·¡·Î
+      // ë§ˆìš°ìŠ¤íœ ì„ ìœ„ì—ì„œ ì•„ë˜ë¡œ
       if (delta < 0) {
         if ($(this).next() != undefined) {
           moveTop = $(this).next().offset().top;
         }
 
-        // ¸¶¿ì½ºÈÙÀ» ¾Æ·¡¿¡¼­ À§·Î
+        // ë§ˆìš°ìŠ¤íœ ì„ ì•„ë˜ì—ì„œ ìœ„ë¡œ
       } else {
         if ($(this).prev() != undefined) {
           moveTop = $(this).prev().offset().top;
         }
       }
-      // È­¸é ÀÌµ¿ 0.5ÃÊ
+      // í™”ë©´ ì´ë™ 0.5ì´ˆ
       $("html,body").stop().animate({
         scrollTop: moveTop + 'px'
       }, {

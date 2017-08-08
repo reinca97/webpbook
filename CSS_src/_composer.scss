@@ -1,0 +1,61 @@
+.composer{
+
+
+  .sub-title{
+    font-size:50px;
+
+
+    &-wrap{
+      padding-top:200px;
+      font-family:"SeoulHangang",sans-serif;
+      text-align:center;
+    }
+  }
+
+  .under-title{
+    &-01{
+      font-size:20px;}
+    &-02{font-size:30px;}
+  }
+
+
+  .section01{
+    background: url(../images/composer_bg01.png) no-repeat;
+    width:100%;height:950px;
+
+    .program-pic-01{
+      display:block;
+      margin:10px auto;
+    }
+
+    .composer-pic01{float:right;}
+
+  }
+
+  .section02{
+    background: url(../images/composer_bg02.png) no-repeat;
+    width:100%;height:950px;
+  }
+
+  .section03{
+    background: url(../images/composer_bg01.png) no-repeat;
+    width:100%;height:950px;
+
+
+    .program-pic-02{
+      display:block;
+      margin:50px auto 0;
+    }
+
+
+  }
+
+  .section04{
+    background: url(../images/composer_bg03.png) no-repeat;
+    width:100%;height:950px;
+  }
+  .composer-pic02{float:left;}
+  .composer-pic03{float:right;}
+
+
+}
