@@ -17,6 +17,9 @@
     width:100%;height:1125px;
     overflow:scroll;
 
+    .inner-scroll{
+      overflow:auto;
+    }
 
     &-text{
       margin-top:80px;
@@ -51,7 +54,7 @@
     }
   }
   .section04{
-    background:url(../images/program_detail02_bg04.png) no-repeat;
+    background:url(../images/program_detail02_bg04.png) no-repeat ;
     width:100%;height:950px;
 
 
@@ -71,8 +74,8 @@
 
   }
   .section05{
-    background:url(../images/program_detail02_bg05.png) no-repeat;
-    width:100%;height:950px;
+    background:url(../images/program_detail02_bg05.png) no-repeat ;
+    width:100%;height:1199px;
   }
 
   .program-nav{
