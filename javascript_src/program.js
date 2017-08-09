@@ -21,11 +21,36 @@ $(function(){
 
   });
 
+
+  ////////////원본////////////////
+
   $('.program-menu-composer').on('mouseleave',function(){
     $(this).removeClass('active');
     $('.program-menu-program').addClass('active');
 
   });
+
+  $('.program-menu-program').on('mouseleave',function(){
+    $(this).removeClass('active');
+    $('.program-menu-composer').addClass('active');
+  });
+    ////////////수정중////////////////
+
+    //$('program-menu-composer').on('mouseleave',function(){
+    //
+    //  var checker= $(this).parent();
+    //
+    //  if (checker=='#program')
+    //  { $(this).removeClass('active');
+    //    $('.program-menu-program').addClass('active');}
+    //
+    //
+   // });
+    //
+    //
+
+
+
 
 
 
