@@ -4,51 +4,32 @@
 
 $(function(){
 
-  //메뉴바 마우스 오버시 길이 변경
+  ////////////프로그램 메뉴바 마우스 오버시 길이 늘이기//////
 
-  $('.program-menu-program').on('mouseenter',function(){
-
-    $('.program-menu-composer').removeClass('active');
-    $('.program-menu-program').addClass('active');
-
-  });
-
-
-  $('.program-menu-composer').on('mouseenter',function(){
-
-    $('.program-menu-program').removeClass('active');
-    $('.program-menu-composer').addClass('active');
+  $('.program-menu-program02').on('mouseenter',function(){
+    $('.program-menu-composer02').removeClass('active');
+    $('.program-menu-program02').addClass('active');
 
   });
 
+  $('.program-menu-composer01').on('mouseenter',function(){
+    $('.program-menu-program01').removeClass('active');
+    $('.program-menu-composer01').addClass('active');
 
-  ////////////원본////////////////
+  });
 
-  $('.program-menu-composer').on('mouseleave',function(){
+  ////////////마우스 떨어지면 길이 줄이기////////////////
+
+  $('.program-menu-composer01').on('mouseleave',function(){
     $(this).removeClass('active');
-    $('.program-menu-program').addClass('active');
+    $('.program-menu-program01').addClass('active');
 
   });
 
-  $('.program-menu-program').on('mouseleave',function(){
+  $('.program-menu-program02').on('mouseleave',function(){
     $(this).removeClass('active');
-    $('.program-menu-composer').addClass('active');
+    $('.program-menu-composer02').addClass('active');
   });
-    ////////////수정중////////////////
-
-    //$('program-menu-composer').on('mouseleave',function(){
-    //
-    //  var checker= $(this).parent();
-    //
-    //  if (checker=='#program')
-    //  { $(this).removeClass('active');
-    //    $('.program-menu-program').addClass('active');}
-    //
-    //
-   // });
-    //
-    //
-
 
 
 
@@ -65,14 +46,13 @@ window.onload = function () {
       var delta = 0;
       if (!event) event = window.event;
 
-
-
           if (event.wheelDelta) {
         delta = event.wheelDelta / 120;
         if (window.opera) delta = -delta;
-      } else if (event.detail) delta = -event.detail / 3;
-      var moveTop = null;
+      }
+          else if (event.detail) delta = -event.detail / 3;
 
+      var moveTop = null;
       // 마우스휠을 위에서 아래로
       if (delta < 0) {
         if ($(this).next() != undefined) {
@@ -85,6 +65,7 @@ window.onload = function () {
           moveTop = $(this).prev().offset().top;
         }
       }
+
       // 화면 이동 0.5초
       $("html,body").stop().animate({
         scrollTop: moveTop + 'px'
@@ -92,8 +73,13 @@ window.onload = function () {
         duration: 500, complete: function () {
         }
       });
+
     });
   });
+
+
+
+
 
 };
 

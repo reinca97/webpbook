@@ -1,0 +1,138 @@
+.program-detail-03{
+
+  .subsubtitle{font-size:25px;
+  padding:100px 0 10px 0;
+  &02{padding:0 0 20px 0 ;}
+  }
+
+  .section01{
+    background: url(../images/pic_at_exh00.png) no-repeat;
+    width:100%; height:950px;
+
+    .program-list{
+      &-title{
+        font-size:40px;
+        padding-top:80px;
+        font-family:"Century gothic",sans-serif;}
+      &-text{
+        width:1000px;
+        margin: 50px 0 50px 60px;
+        >p {
+          font-size:15px;
+          font-family:"century gothic",sans-serif}
+
+
+      }
+    }
+
+  }
+  .section02{
+    background: url(../images/pic_at_exh01.png) no-repeat;
+    width:100%; height:950px;
+
+    &-text{
+      padding-top:100px;
+    }
+
+  }
+
+  .section03{
+    background: url(../images/promenade.png) no-repeat center;
+    width:100%; height:950px;
+
+    .subsubtitle{
+      padding-top:500px;
+    }
+
+
+  }
+
+  .section04{
+    background: url(../images/gnomus.png) no-repeat;
+    width:100%; height:950px;
+  }
+
+  .section05{
+    background: url(../images/castello.png) no-repeat center;
+    width:100%; height:950px;
+  }
+
+  //tuileries
+  .section06{
+    background: url(../images/tuileries.png) no-repeat center;
+    width:100%; height:950px;
+  }
+
+  .section07{
+    background: url(../images/bydlo.png) no-repeat;
+    width:100%; height:950px;
+  }
+
+  .section08{
+    background: url(../images/dans_coques.png) no-repeat;
+    width:100%; height:950px;
+  }
+
+
+  .section09{
+    background: url(../images/two_jews.png) no-repeat;
+    width:100%; height:950px;
+  }
+
+  .section10{
+    background: url(../images/limoges.png) no-repeat;
+    width:100%; height:950px;
+  }
+
+  .section11{
+    background: url(../images/catacomb.png) no-repeat;
+    width:100%; height:950px;
+  }
+
+  .section12{
+    background: url(../images/babayaga.png) no-repeat;
+    width:100%; height:950px;
+  }
+
+  .section13{
+    background: url(../images/gate_of_kiev.png) no-repeat;
+    width:100%; height:1324px;
+  }
+
+
+  .program-nav{
+    width:100%; height:200px;
+    position:absolute;
+    top:12564px;
+    background:black;
+    opacity:0.8;
+
+
+    &-pre{
+      display:block;
+      width:500px;
+      text-align:right; padding:82px 170px;
+      float:left;
+      font-family:"Century Gothic",sans-serif;
+      font-size:30px;
+      cursor:pointer;
+    }
+
+    &-next{
+      display:block;
+      width:500px;
+      text-align:left;padding:82px 360px 82px 200px;
+      float:right;
+      font-family:"Century Gothic",sans-serif;
+      font-size:30px;
+      cursor:pointer;
+    }
+
+  }
+
+
+
+
+
+
+}

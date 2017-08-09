@@ -9,7 +9,7 @@
     content:"";display:block;clear:both;
   }
 
-  &-program{
+  &-program01, &-program02{
 
     width:35%;height:38px;
     background-color:#5f4069;
@@ -34,7 +34,7 @@
   }
 
 
-  &-composer{
+  &-composer01,&-composer02 {
     width:35%;height:38px;
     background-color:#974659;
     float:right;
