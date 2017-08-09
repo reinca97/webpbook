@@ -78,6 +78,20 @@ window.onload = function () {
   });
 
 
+//프로그램 내 인덱스 (링크)클릭시 스크롤 애니메이션
+  $('.program-list-text>p>a').on('click',function(e){
+    e.preventDefault();
+    var href= $(this).attr('href'); //href값을 가져옴
+    var scrollPosition=$(href).offset().top;
+
+    console.log(href);
+
+    $('body').stop().animate({scrollTop:scrollPosition})
+
+  });
+
+
+
 
 
 

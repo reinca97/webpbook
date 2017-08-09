@@ -1,5 +1,6 @@
 .program-detail-03{
 
+
   .subsubtitle{font-size:25px;
   padding:100px 0 10px 0;
   &02{padding:0 0 20px 0 ;}
@@ -19,11 +20,19 @@
         margin: 50px 0 50px 60px;
         >p {
           font-size:15px;
-          font-family:"century gothic",sans-serif}
+          font-family:"century gothic",sans-serif;
+          >a{ font-size:15px;
+            font-family:"century gothic",sans-serif;
+          &:hover{color:gold;}
+          }
+        }
 
 
       }
     }
+
+
+
 
   }
   .section02{
@@ -31,7 +40,52 @@
     width:100%; height:950px;
 
     &-text{
-      padding-top:100px;
+      padding-top:80px;
+      >p{
+        text-indent:5px;
+        margin-bottom:10px;}
+    }
+
+    .hartmann-list{
+      width:550px;
+      margin-left:50px;
+      float:left;
+
+      &-link{
+        &:hover{color:gold;}
+      }
+    }
+
+    //링크태그
+    .hm-link{
+      &-01{}
+      &-02{}
+      &-03{}
+      &-03{}
+      &-04{}
+      &-05{}
+    }
+
+    //결과화면
+    .hartmann-pic{
+      width:500px;height:200px;
+      float:right;
+      position:relative;
+      background:black;//임시
+      &-01{position:absolute;}
+      &-02{position:absolute;}
+      &-03{position:absolute;}
+      &-03{position:absolute;}
+      &-04{position:absolute;}
+      &-05{position:absolute;}
+    }
+
+    .hartman-wrap{
+      border-top:solid 1px white;
+      padding-top:20px;
+      &:after{
+      content:"";display:block;clear:both;
+    }
     }
 
   }
@@ -41,7 +95,11 @@
     width:100%; height:950px;
 
     .subsubtitle{
-      padding-top:500px;
+      padding-top:450px;
+    }
+    &-text{
+      margin-top:100px;
+      >p{margin-bottom:10px;}
     }
 
 
@@ -50,60 +108,183 @@
   .section04{
     background: url(../images/gnomus.png) no-repeat;
     width:100%; height:950px;
+
+    .subsubtitle{
+      padding-top:200px;
+      text-align:right;
+    }
+
+    &-text{
+     margin-top:100px;
+      text-align:right;
+      >p{margin-bottom:10px;}}
+
   }
 
   .section05{
     background: url(../images/castello.png) no-repeat center;
     width:100%; height:950px;
+
+    .subsubtitle{
+      padding-top:300px;
+    }
+
+    &-text{
+      margin-top:100px;
+      >p{margin-bottom:10px;}}
+
   }
 
   //tuileries
   .section06{
     background: url(../images/tuileries.png) no-repeat center;
     width:100%; height:950px;
+
+    .subsubtitle{
+      padding-top:250px;
+      text-align:right;
+    }
+
+    &-text{
+      margin-top:100px;
+      text-align:right;
+      >p{margin-bottom:10px;}}
+
+
   }
 
   .section07{
     background: url(../images/bydlo.png) no-repeat;
     width:100%; height:950px;
+
+    .subsubtitle{
+      padding-top:200px;
+    }
+
+    &-text{
+      margin-top:100px;
+      >p{margin-bottom:10px;}}
+
   }
 
   .section08{
     background: url(../images/dans_coques.png) no-repeat;
     width:100%; height:950px;
+
+    .subsubtitle{
+      padding-top:250px;
+      text-align:right;
+      &02{text-align:right;font-size:18px;}
+
+    }
+
+    &-text{
+      margin-top:100px;
+      text-align:right;
+      >p{margin-bottom:10px;}}
+
   }
 
 
   .section09{
     background: url(../images/two_jews.png) no-repeat;
     width:100%; height:950px;
+
+    .subsubtitle{
+      padding-top:200px;
+    }
+
+    &-text{
+      margin-top:100px;
+      >p{margin-bottom:10px;}}
+
   }
 
   .section10{
-    background: url(../images/limoges.png) no-repeat;
-    width:100%; height:950px;
+    background: url(../images/limoges.png) no-repeat center;
+    width:100%; height:1200px;
+
+    .subsubtitle{
+      padding-top:300px;
+      text-align:right;
+      &02{text-align:right;font-size:18px;}
+
+    }
+
+    &-text{
+      margin-top:100px;
+      text-align:right;
+      >p{margin-bottom:10px;}}
+
+
   }
 
   .section11{
     background: url(../images/catacomb.png) no-repeat;
     width:100%; height:950px;
+
+    .subsubtitle{
+      padding-top:150px;
+    }
+
+    &-text{
+      margin-top:100px;
+      >p{margin-bottom:10px;}}
+
+
   }
 
   .section12{
     background: url(../images/babayaga.png) no-repeat;
     width:100%; height:950px;
+
+    .subsubtitle{
+      padding-top:150px;
+      text-align:right;
+      &02{text-align:right;font-size:18px;}
+
+    }
+
+    &-text{
+      width:800px;
+      margin-top:100px;
+      text-align:right;
+      float:right;
+      >p{margin-bottom:10px;
+        &:first-child{font-size:18px;color:orangered;}
+      }
+    }
+
+    .inner-box:after{content:"";display:block;clear:both;}
+
   }
 
   .section13{
     background: url(../images/gate_of_kiev.png) no-repeat;
     width:100%; height:1324px;
+
+    .subsubtitle{
+      padding-top:150px;
+    }
+
+    &-text{
+      margin-top:50px;
+      >p{margin-bottom:10px;}}
+
+
   }
+
+
+
+
+
+  .Stasov{color:goldenrod;}
 
 
   .program-nav{
     width:100%; height:200px;
     position:absolute;
-    top:12564px;
+    top:12814px;
     background:black;
     opacity:0.8;
 
@@ -111,7 +292,7 @@
     &-pre{
       display:block;
       width:500px;
-      text-align:right; padding:82px 170px;
+      text-align:right; padding:82px 100px 82px 320px;
       float:left;
       font-family:"Century Gothic",sans-serif;
       font-size:30px;
@@ -121,7 +302,7 @@
     &-next{
       display:block;
       width:500px;
-      text-align:left;padding:82px 360px 82px 200px;
+      text-align:left;padding:82px 260px 82px 210px;
       float:right;
       font-family:"Century Gothic",sans-serif;
       font-size:30px;
