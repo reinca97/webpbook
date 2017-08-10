@@ -76,27 +76,34 @@
         display:none;
         left:-400px;
         height:250px;
+
+        &:hover{height:800px;left:-800px;top:-550px;}
+
         }
       &-02{position:absolute;
         display:none;
         left:-510px;
         height:250px;
+        &:hover{height:800px;left:-1100px;top:-530px;}
       }
       &-03{position:absolute;
         display:none;
         left:-480px;
         height:250px;
+        &:hover{height:800px;left:-1000px;top:-530px;}
       }
 
       &-04{position:absolute;
         display:none;
         left:-400px;
         height:250px;
+        &:hover{height:800px;left:-700px;top:-530px;}
       }
       &-05{position:absolute;
         display:none;
         left:-400px;
         height:250px;
+        &:hover{height:800px;left:-700px;top:-520px;}
       }
     }
 
