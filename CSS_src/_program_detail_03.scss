@@ -8,7 +8,7 @@
 
   .section01{
     background: url(../images/pic_at_exh00.png) no-repeat;
-    width:100%; height:950px;
+    width:100%; height:980px;
 
     .program-list{
       &-title{
@@ -37,7 +37,7 @@
   }
   .section02{
     background: url(../images/pic_at_exh01.png) no-repeat;
-    width:100%; height:950px;
+    width:100%; height:980px;
 
     &-text{
       padding-top:80px;
@@ -68,16 +68,36 @@
 
     //결과화면
     .hartmann-pic{
-      width:500px;height:200px;
+      height:200px;
       float:right;
       position:relative;
-      background:black;//임시
-      &-01{position:absolute;}
-      &-02{position:absolute;}
-      &-03{position:absolute;}
-      &-03{position:absolute;}
-      &-04{position:absolute;}
-      &-05{position:absolute;}
+
+      &-01{position:absolute;
+        display:none;
+        left:-400px;
+        height:250px;
+        }
+      &-02{position:absolute;
+        display:none;
+        left:-510px;
+        height:250px;
+      }
+      &-03{position:absolute;
+        display:none;
+        left:-480px;
+        height:250px;
+      }
+
+      &-04{position:absolute;
+        display:none;
+        left:-400px;
+        height:250px;
+      }
+      &-05{position:absolute;
+        display:none;
+        left:-400px;
+        height:250px;
+      }
     }
 
     .hartman-wrap{
@@ -92,7 +112,7 @@
 
   .section03{
     background: url(../images/promenade.png) no-repeat center;
-    width:100%; height:950px;
+    width:100%; height:980px;
 
     .subsubtitle{
       padding-top:450px;
@@ -107,7 +127,7 @@
 
   .section04{
     background: url(../images/gnomus.png) no-repeat;
-    width:100%; height:950px;
+    width:100%; height:980px;
 
     .subsubtitle{
       padding-top:200px;
@@ -123,7 +143,7 @@
 
   .section05{
     background: url(../images/castello.png) no-repeat center;
-    width:100%; height:950px;
+    width:100%; height:980px;
 
     .subsubtitle{
       padding-top:300px;
@@ -138,7 +158,7 @@
   //tuileries
   .section06{
     background: url(../images/tuileries.png) no-repeat center;
-    width:100%; height:950px;
+    width:100%; height:980px;
 
     .subsubtitle{
       padding-top:250px;
@@ -155,7 +175,7 @@
 
   .section07{
     background: url(../images/bydlo.png) no-repeat;
-    width:100%; height:950px;
+    width:100%; height:980px;
 
     .subsubtitle{
       padding-top:200px;
@@ -169,7 +189,7 @@
 
   .section08{
     background: url(../images/dans_coques.png) no-repeat;
-    width:100%; height:950px;
+    width:100%; height:980px;
 
     .subsubtitle{
       padding-top:250px;
@@ -188,7 +208,7 @@
 
   .section09{
     background: url(../images/two_jews.png) no-repeat;
-    width:100%; height:950px;
+    width:100%; height:980px;
 
     .subsubtitle{
       padding-top:200px;
@@ -221,7 +241,7 @@
 
   .section11{
     background: url(../images/catacomb.png) no-repeat;
-    width:100%; height:950px;
+    width:100%; height:980px;
 
     .subsubtitle{
       padding-top:150px;
@@ -236,7 +256,7 @@
 
   .section12{
     background: url(../images/babayaga.png) no-repeat;
-    width:100%; height:950px;
+    width:100%; height:980px;
 
     .subsubtitle{
       padding-top:150px;
@@ -284,7 +304,7 @@
   .program-nav{
     width:100%; height:200px;
     position:absolute;
-    top:12814px;
+    top:13144px;
     background:black;
     opacity:0.8;
 

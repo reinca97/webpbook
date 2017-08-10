@@ -102,6 +102,64 @@ window.onload = function () {
 
 
 
+  //Hartman 의 그림 리스트 클릭시 오른쪽에 보여주기
+
+
+    $('.hm-link-01').on('click',function(e){
+
+      e.preventDefault();
+        $('.hartmann-pic-01').css({'display':'block'});
+        $('.hartmann-pic-02').css({'display':'none'});
+        $('.hartmann-pic-03').css({'display':'none'});
+        $('.hartmann-pic-04').css({'display':'none'});
+        $('.hartmann-pic-05').css({'display':'none'});
+    });
+
+    $('.hm-link-02').on('click',function(e){
+
+        e.preventDefault();
+        $('.hartmann-pic-02').css({'display':'block'});
+        $('.hartmann-pic-01').css({'display':'none'});
+        $('.hartmann-pic-03').css({'display':'none'});
+        $('.hartmann-pic-04').css({'display':'none'});
+        $('.hartmann-pic-05').css({'display':'none'});
+
+    });
+
+    $('.hm-link-03').on('click',function(e){
+
+        e.preventDefault();
+        $('.hartmann-pic-03').css({'display':'block'});
+        $('.hartmann-pic-02').css({'display':'none'});
+        $('.hartmann-pic-01').css({'display':'none'});
+        $('.hartmann-pic-04').css({'display':'none'});
+        $('.hartmann-pic-05').css({'display':'none'});
+
+    });
+
+    $('.hm-link-04').on('click',function(e){
+
+        e.preventDefault();
+        $('.hartmann-pic-04').css({'display':'block'});
+        $('.hartmann-pic-02').css({'display':'none'});
+        $('.hartmann-pic-03').css({'display':'none'});
+        $('.hartmann-pic-01').css({'display':'none'});
+        $('.hartmann-pic-05').css({'display':'none'});
+
+    });
+
+    $('.hm-link-05').on('click',function(e){
+
+        e.preventDefault();
+        $('.hartmann-pic-05').css({'display':'block'});
+        $('.hartmann-pic-02').css({'display':'none'});
+        $('.hartmann-pic-03').css({'display':'none'});
+        $('.hartmann-pic-04').css({'display':'none'});
+        $('.hartmann-pic-01').css({'display':'none'});
+
+    })
+
+
 
 
 };
