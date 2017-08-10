@@ -72,20 +72,59 @@ body{
 
 
 /*하단 플레이어*/
-.music-player-wrap{
-  width:1400px;
-  padding:200px 0 200px 0;
-  box-sizing:border-box;
-  margin:0 auto;
-}
 
 .song-title {
   font-family: "Century Gothic", sans-serif;
-  width: 490px;
-  font-size: 28px;
+  width: 1000px;
+  font-size: 20px;
+  position:relative;
 }
 
+.music-player-wrap{
+  width:1090px;height:130px;
+  margin:200px auto;
+}
 .music-player{
-  width:1400px;
-  margin:0 auto;
+  width:1056px;height:100px;
+  position:relative;
+
+}
+
+
+.btn{
+  position:absolute;left:0;
+  display:block;
+  border:0;
+  width:56px; height:56px;
+  background: url(../images/image_sprite.png) no-repeat -2px -2px;
+  text-indent:-9999px;
+
+}
+
+.btn.pause{
+  background-position:-60px -2px;
+  position:absolute;left:0
+}
+
+.progress{
+  width:1000px;height:5px;
+  background:black;
+  position:absolute; left:65px;top:63px;
+
+}
+.bar{
+  height:5px; width:0;
+  background:white;transition:all 0.5s linear;
+
+}
+
+
+.btn-and-bar{
+  height:50px;
+  &:after{content:"";display:block;clear:both;}
+}
+
+.current-time{
+  float:left;
+  width:1000px;
 }

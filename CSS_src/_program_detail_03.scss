@@ -32,7 +32,10 @@
     }
 
 
+    .inner-box:after{content:"";display:block;clear:both;}
 
+
+    .music-player-wrap{margin:0 auto;}
 
   }
   .section02{

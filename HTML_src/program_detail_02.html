@@ -16,10 +16,30 @@
       </div>
     </div>
 
+    <!-----------------------custom music player------------------->
     <div class="music-player-wrap">
-       <div class="song-title"> Symphony No. 2 in B Minor: I. Allegro</div>
-       <img src="../images/music_player.png" alt="" class="music-player">
+      <audio class="audio">
+        <source src="../music/"
+                type="audio/mpeg" />
+      </audio>
+
+
+      <div class="music-player">
+
+        <div class="song-title">Symphony No. 2 in B Minor: I. Allegro</div>
+
+        <div class="btn-and-bar">
+          <button class="btn play" type="button">play</button>
+          <div class="progress"> <div class="bar"></div> </div>
+        </div>
+
+        <div class="current-time">00:00</div>
+
+      </div>
+
+
     </div>
+    <!-----------------------end of music player------------------->
 
   </section>
 
