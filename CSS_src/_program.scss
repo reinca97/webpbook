@@ -41,7 +41,9 @@
 
 
     .dimmed{top:200px;}
-    .program-list{padding-top:230px;}
+    .program-list{padding-top:230px;
+    &-text{width:400px;}
+    }
 
   }
 
@@ -77,7 +79,7 @@
     .sero-bar:after{
       width:20px; height:700px;
       position:absolute;
-      top:130px;right:0;}
+      top:160px;right:0;}
 
 
   }
