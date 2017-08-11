@@ -2,8 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad1be1e3-1e41-46f2-99b3-dced2c866f0e" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\about_us_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\babayaga.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\bydlo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\castello.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\catacomb.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\composer_bg01.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\composer_bg02.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\composer_bg03.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\d6bbb9270ac2ad6ef9b84214f283cdc8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\dans_coques.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\gate_of_kiev.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\gnomus.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\intro_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\limoges.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\location_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\main_first_cut.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\pic_at_exh00.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\pic_at_exh01.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\player_detail_bg1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\player_detail_bg3.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\program_bg_exh.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\program_bg_ovt.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\program_bg_symphony.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\program_detail01_bg01.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\program_detail01_bg02.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\program_detail01_bg03.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\program_detail02_bg01-2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\program_detail02_bg01.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\program_detail02_bg02.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\program_detail02_bg03.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\program_detail02_bg04.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\program_detail02_bg05.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\promenade.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\replay_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\replay_detail_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\replay_poster.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\tuileries.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\FRONT_END\WEB_PROGRAM_BOOK\images\two_jews.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_about_us.scss" afterPath="$PROJECT_DIR$/CSS_src/_about_us.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_composer.scss" afterPath="$PROJECT_DIR$/CSS_src/_composer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_intro.scss" afterPath="$PROJECT_DIR$/CSS_src/_intro.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_location.scss" afterPath="$PROJECT_DIR$/CSS_src/_location.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_player_detail.scss" afterPath="$PROJECT_DIR$/CSS_src/_player_detail.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_program.scss" afterPath="$PROJECT_DIR$/CSS_src/_program.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/program_detail_03.html" afterPath="$PROJECT_DIR$/HTML_src/program_detail_03.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_program_detail_01.scss" afterPath="$PROJECT_DIR$/CSS_src/_program_detail_01.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_program_detail_02.scss" afterPath="$PROJECT_DIR$/CSS_src/_program_detail_02.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_program_detail_03.scss" afterPath="$PROJECT_DIR$/CSS_src/_program_detail_03.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_replay.scss" afterPath="$PROJECT_DIR$/CSS_src/_replay.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_replay_detail.scss" afterPath="$PROJECT_DIR$/CSS_src/_replay_detail.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/function.js" afterPath="$PROJECT_DIR$/javascript/function.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript_src/program.js" afterPath="$PROJECT_DIR$/javascript_src/program.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/program_detail_01.html" afterPath="$PROJECT_DIR$/HTML/program_detail_01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/program_detail_01.html" afterPath="$PROJECT_DIR$/HTML_src/program_detail_01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/replay.html" afterPath="$PROJECT_DIR$/HTML/replay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/replay.html" afterPath="$PROJECT_DIR$/HTML_src/replay.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/style.css" afterPath="$PROJECT_DIR$/CSS/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -26,66 +79,14 @@
     <favorites_list name="webpbook" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5142315">
+    <splitter split-orientation="horizontal" split-proportion="0.49019608">
       <split-first>
         <leaf>
-          <file leaf-file-name="program_detail_03.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/HTML_src/program_detail_03.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.47679326">
-                  <caret line="386" column="0" selection-start-line="386" selection-start-column="0" selection-end-line="397" selection-end-column="16" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="program_detail_01.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HTML_src/program_detail_01.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-13.444445">
-                  <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="intro.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/HTML_src/intro.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-15.814815">
-                  <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="program_detail_01.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HTML/program_detail_01.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-7.7777777">
-                  <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="program_detail_02.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HTML_src/program_detail_02.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-16.333334">
-                  <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-                  <folding>
-                    <element signature="n#div#1;n#div#0;n#section#4;n#div#0;n#!!top" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="program.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HTML_src/program.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.8888889">
-                  <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+                <state vertical-scroll-proportion="-13.222222">
+                  <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
                   <folding />
                 </state>
               </provider>
@@ -95,7 +96,27 @@
             <entry file="file://$PROJECT_DIR$/HTML/intro.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="-11.666667">
-                  <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+                  <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="program_detail_01.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/HTML_src/program_detail_01.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.25187406">
+                  <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="05_js_ex_21_re.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../TUTORIAL/05_js_ex_21_re.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-84.77778">
+                  <caret line="109" column="2" selection-start-line="109" selection-start-column="2" selection-end-line="111" selection-end-column="24" />
                   <folding />
                 </state>
               </provider>
@@ -108,8 +129,8 @@
           <file leaf-file-name="_program_detail_02.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_02.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0">
-                  <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+                <state vertical-scroll-proportion="21.11111">
+                  <caret line="90" column="54" selection-start-line="90" selection-start-column="54" selection-end-line="90" selection-end-column="54" />
                   <folding />
                 </state>
               </provider>
@@ -118,40 +139,48 @@
           <file leaf-file-name="_program_detail_03.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_03.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-17.88889">
-                  <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+                <state vertical-scroll-proportion="21.88889">
+                  <caret line="292" column="46" selection-start-line="292" selection-start-column="46" selection-end-line="292" selection-end-column="46" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_program.scss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="_replay.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/CSS_src/_replay.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="53.77778">
+                  <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_replay_detail.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/CSS_src/_replay_detail.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-4.5555553">
+                  <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_reset.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/CSS_src/_reset.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-11.777778">
+                  <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_program.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CSS_src/_program.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.2658228">
-                  <caret line="81" column="12" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="music_player.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/javascript_src/music_player.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#0#50#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_intro.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CSS_src/_intro.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
+                <state vertical-scroll-proportion="-18.555555">
+                  <caret line="121" column="0" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -164,9 +193,24 @@
                   <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#50#0" expanded="false" />
-                    <element signature="e#1194#1291#0" expanded="false" />
-                    <element signature="e#1998#2204#0" expanded="false" />
+                    <element signature="e#1196#1293#0" expanded="false" />
+                    <element signature="e#2000#2206#0" expanded="false" />
+                    <element signature="e#2293#2603#0" expanded="false" />
+                    <element signature="e#2650#2963#0" expanded="false" />
+                    <element signature="e#3010#3323#0" expanded="false" />
+                    <element signature="e#3370#3683#0" expanded="false" />
+                    <element signature="e#3730#4043#0" expanded="false" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_program_detail_01.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_01.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.62968516">
+                  <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -211,22 +255,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gulpfile.js" />
-        <option value="$PROJECT_DIR$/HTML/replay.html" />
-        <option value="$PROJECT_DIR$/HTML_src/replay_detail_00.html" />
         <option value="$PROJECT_DIR$/HTML/replay_detail_01.html" />
         <option value="$PROJECT_DIR$/HTML/replay_detail_02.html" />
         <option value="$PROJECT_DIR$/HTML_src/replay_detail_01.html" />
         <option value="$PROJECT_DIR$/HTML_src/replay_detail_02.html" />
         <option value="$PROJECT_DIR$/HTML_src/replay_detail_03.html" />
         <option value="$PROJECT_DIR$/HTML_src/replay_detail_04.html" />
-        <option value="$PROJECT_DIR$/CSS_src/_replay_detail.scss" />
         <option value="$PROJECT_DIR$/javascript_src/replay.js" />
-        <option value="$PROJECT_DIR$/HTML_src/replay.html" />
         <option value="$PROJECT_DIR$/CSS_src/_main.scss" />
         <option value="$PROJECT_DIR$/javascript_src/gnb_location.js" />
         <option value="$PROJECT_DIR$/CSS/style.css" />
-        <option value="$PROJECT_DIR$/CSS_src/_replay.scss" />
         <option value="$PROJECT_DIR$/HTML/program.html" />
         <option value="$PROJECT_DIR$/HTML_src/_include/_footer_program.html" />
         <option value="$PROJECT_DIR$/HTML_src/_include/_footer.html" />
@@ -245,23 +283,29 @@
         <option value="$PROJECT_DIR$/HTML/program_detail_03.html" />
         <option value="$PROJECT_DIR$/HTML_src/program.html" />
         <option value="$PROJECT_DIR$/javascript_src/player_detail.js" />
-        <option value="$PROJECT_DIR$/CSS_src/_player_detail.scss" />
         <option value="$PROJECT_DIR$/HTML_src/player_detail.html" />
         <option value="$PROJECT_DIR$/HTML/program_detail_02.html" />
-        <option value="$PROJECT_DIR$/CSS_src/_program_detail_01.scss" />
-        <option value="$PROJECT_DIR$/CSS_src/_composer.scss" />
-        <option value="$PROJECT_DIR$/javascript_src/program.js" />
         <option value="$PROJECT_DIR$/javascript_src/music_player.js" />
         <option value="$PROJECT_DIR$/HTML/intro.html" />
-        <option value="$PROJECT_DIR$/CSS_src/_intro.scss" />
-        <option value="$PROJECT_DIR$/CSS_src/_program_detail_02.scss" />
-        <option value="$PROJECT_DIR$/CSS_src/_program_detail_03.scss" />
         <option value="$PROJECT_DIR$/HTML_src/main.html" />
         <option value="$PROJECT_DIR$/HTML_src/program_detail_02.html" />
         <option value="$PROJECT_DIR$/HTML_src/intro.html" />
-        <option value="$PROJECT_DIR$/HTML_src/program_detail_01.html" />
-        <option value="$PROJECT_DIR$/CSS_src/_program.scss" />
         <option value="$PROJECT_DIR$/HTML_src/program_detail_03.html" />
+        <option value="$PROJECT_DIR$/CSS_src/_intro.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_about_us.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_composer.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_location.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_player_detail.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_program.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_program_detail_02.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_program_detail_03.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_replay.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_replay_detail.scss" />
+        <option value="$PROJECT_DIR$/HTML_src/replay_detail_00.html" />
+        <option value="$PROJECT_DIR$/HTML_src/replay.html" />
+        <option value="$PROJECT_DIR$/HTML_src/program_detail_01.html" />
+        <option value="$PROJECT_DIR$/javascript_src/program.js" />
+        <option value="$PROJECT_DIR$/CSS_src/_program_detail_01.scss" />
       </list>
     </option>
   </component>
@@ -461,20 +505,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HTML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB_PROGRAM_BOOK" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB_PROGRAM_BOOK" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="CSS_src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -590,8 +620,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Gulp.js.default" />
-        <item index="1" class="java.lang.String" itemvalue="Gulp.js.jsconcat" />
+        <item index="0" class="java.lang.String" itemvalue="Gulp.js.jsconcat" />
+        <item index="1" class="java.lang.String" itemvalue="Gulp.js.default" />
       </list>
     </recent_temporary>
   </component>
@@ -648,13 +678,13 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16789474" sideWeight="0.3682831" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16789474" sideWeight="0.6317169" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16789474" sideWeight="0.36856747" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16789474" sideWeight="0.63143253" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21475054" sideWeight="0.50210524" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18133047" sideWeight="0.49789473" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22854078" sideWeight="0.49789473" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24221453" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -689,52 +719,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSS_src/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_gnb.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/function.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML_src/_include/_header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_header_program.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/composer.html" />
-    <entry file="file://$PROJECT_DIR$/images/gate_of_kiev.png" />
-    <entry file="file://$PROJECT_DIR$/images/tuileries.png" />
-    <entry file="file://$PROJECT_DIR$/images/castello.png" />
     <entry file="file://$PROJECT_DIR$/HTML_src/replay_detail_02.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -761,13 +745,6 @@
     <entry file="file://$PROJECT_DIR$/../Website_exercise/artica/js/function.js" />
     <entry file="file://$PROJECT_DIR$/../advanced/horizontal_scroll/horizon_scroll.html" />
     <entry file="file://$PROJECT_DIR$/HTML_src/composer.html" />
-    <entry file="file://$PROJECT_DIR$/CSS_src/_reset.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="94" column="25" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/lib/jquery-3.2.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -783,19 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/program_detail02_bg05.png" />
-    <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_01.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/composer_bg02.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/composer_musso02.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -804,25 +768,6 @@
     <entry file="file://$PROJECT_DIR$/images/calender.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_player_detail.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/composer_bg01.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_composer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/location.html">
@@ -854,18 +799,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript_src/program.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#50#0" expanded="false" />
-            <element signature="e#1194#1291#0" expanded="false" />
-            <element signature="e#1998#2204#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript_src/music_player.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -873,22 +806,6 @@
           <folding>
             <element signature="e#0#50#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_intro.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_02.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -908,39 +825,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/intro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.666667">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/intro_bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML_src/intro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.814815">
-          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/program_detail_01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.7777777">
           <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML_src/program_detail_01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.444445">
-          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -952,22 +840,6 @@
           <folding>
             <element signature="n#div#1;n#div#0;n#section#4;n#div#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_03.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.88889">
-          <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_program.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2658228">
-          <caret line="81" column="12" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -991,6 +863,207 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47679326">
           <caret line="386" column="0" selection-start-line="386" selection-start-column="0" selection-end-line="397" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_src/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.222222">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_about_us.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="26.555555">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14345992">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_gnb.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.772152">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.443038">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_header_program.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32489452">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_composer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.2222223">
+          <caret line="70" column="47" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_intro.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="64.666664">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_location.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="31.222221">
+          <caret line="127" column="41" selection-start-line="127" selection-start-column="41" selection-end-line="127" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.555555">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_player_detail.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="35.88889">
+          <caret line="164" column="49" selection-start-line="164" selection-start-column="49" selection-end-line="164" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_02.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="21.11111">
+          <caret line="90" column="54" selection-start-line="90" selection-start-column="54" selection-end-line="90" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_03.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="21.88889">
+          <caret line="292" column="46" selection-start-line="292" selection-start-column="46" selection-end-line="292" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_replay.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="53.77778">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.666667">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TUTORIAL/05_js_ex_21_re.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-84.77778">
+          <caret line="109" column="2" selection-start-line="109" selection-start-column="2" selection-end-line="111" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.777778">
+          <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_src/replay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60262007">
+          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_src/replay_detail_00.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.088607594">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_replay_detail.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.5555553">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_src/program_detail_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25187406">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_src/program.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+            <element signature="e#1196#1293#0" expanded="false" />
+            <element signature="e#2000#2206#0" expanded="false" />
+            <element signature="e#2293#2603#0" expanded="false" />
+            <element signature="e#2650#2963#0" expanded="false" />
+            <element signature="e#3010#3323#0" expanded="false" />
+            <element signature="e#3370#3683#0" expanded="false" />
+            <element signature="e#3730#4043#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_program.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.555555">
+          <caret line="121" column="0" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_01.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62968516">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
           <folding />
         </state>
       </provider>

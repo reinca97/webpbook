@@ -37,6 +37,8 @@ $(function(){
 
 });
 
+
+
 ////section 별 스크롤 동작
 window.onload = function () {
   $(".move-section").each(function(){
@@ -157,10 +159,16 @@ window.onload = function () {
         $('.hartmann-pic-04').css({'display':'none'});
         $('.hartmann-pic-01').css({'display':'none'});
 
-    })
-
-
+    });
 
 
 };
+
+
+
+window.on('load',function(){
+  $('.container').hide();
+  $('.program-detail-01').show();
+
+});
 
