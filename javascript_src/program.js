@@ -166,9 +166,8 @@ window.onload = function () {
 
 
 
-window.on('load',function(){
-  $('.container').hide();
-  $('.program-detail-01').show();
+$(window).on('load',function(){
+  $('#container').hide();
 
 });
 
