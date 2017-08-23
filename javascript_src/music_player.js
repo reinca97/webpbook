@@ -8,43 +8,59 @@ $(function(){
 
 
   $('.audio').on('loadedmetadata',function(){
-    console.log(Math.floor($audio.duration/60)+ ':' + Math.floor($audio.duration % 60) ); //ºÐ : ³ª¸ÓÁö  -->yatta!
+    console.log(Math.floor($audio.duration/60)+ ':' + Math.floor($audio.duration % 60) ); //ë¶„ : ë‚˜ë¨¸ì§€  -->yatta!
   });
 
-  //////////// ##:## ÇüÅÂ·Î  ///////////
+  //////////// ##:## í˜•íƒœë¡œ  ///////////
   function digit(time){
     var fixDigit;
 
-    if(time<10){fixDigit='0'+time;  //10º¸´Ù ÀÛÀº°æ¿ì º¯¼ö¿¡ ÀúÀå
-    }else{fixDigit=time;}  //10º¸´Ù Å©¸é °Á ±×´ë·Î
+    if(time<10){fixDigit='0'+time;  //10ë³´ë‹¤ ìž‘ì€ê²½ìš° ë³€ìˆ˜ì— ì €ìž¥
+    }else{fixDigit=time;}  //10ë³´ë‹¤ í¬ë©´ ê± ê·¸ëŒ€ë¡œ
     return fixDigit;}
 
   /////////////runnung time///////////////
 
   $('audio').on('timeupdate',function(){
     var time= digit( Math.floor($audio.currentTime/60) )+ ':' + digit( Math.floor($audio.currentTime % 60) );
-    //ºÐ:³ª¸ÓÁö
+    //ë¶„:ë‚˜ë¨¸ì§€
 
-    $('.current-time').html(time); //digit ÇÔ¼ö¿¡ time ´ëÀÔÇÏ¿© Ãâ·Â.
+    $('.current-time').html(time); //digit í•¨ìˆ˜ì— time ëŒ€ìž…í•˜ì—¬ ì¶œë ¥.
 
-    //progress bar °¡·Î±æÀÌ ÆÛ¼¾Å×ÀÌÁö Á¦¾î( ÇöÀç½Ã°£/ÀüÃ¼½Ã°£ * 100)
+    //progress bar ê°€ë¡œê¸¸ì´ í¼ì„¼í…Œì´ì§€ ì œì–´( í˜„ìž¬ì‹œê°„/ì „ì²´ì‹œê°„ * 100)
     var progressBar = $audio.currentTime/$audio.duration*100;
-    $('.progress .bar').css({'width': progressBar+'%'});
+    $('.progress .progress-bar').css({'width': progressBar+'%'});
   });
 
 
-  //////////¹öÆ° Å¬¸¯½Ã ÇÃ·¹ÀÌ+¸ØÃã Åä±Û/////////////////
+  //////////ë²„íŠ¼ í´ë¦­ì‹œ í”Œë ˆì´+ë©ˆì¶¤ í† ê¸€/////////////////
   $('.btn').data({'play':false}).on('click',function(){
+
 
     if( $(this).data('play') == false ){
       $audio.play();
       $(this).removeClass('play').addClass('pause');
       $(this).data({'play':true});
+
+
+      $(".bar").removeClass("noAnim");
+
+
+
     }else{
       $audio.pause();
       $(this).removeClass('pause').addClass('play');
       $(this).data({'play':false});
+
+      $(".bar").addClass("noAnim");
+
+
     }
+
+
+
+
+
 
   });
 
@@ -53,4 +69,5 @@ $(function(){
 
 
 
-});//ÁøÀÔÁ¡ ³¡
+
+});//ì§„ìž…ì  ë

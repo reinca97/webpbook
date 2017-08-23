@@ -1,9 +1,11 @@
 .program-detail-03{
 
+  height:13300px;
 
-  .subsubtitle{font-size:25px;
-  padding:100px 0 10px 0;
-  &02{padding:0 0 20px 0 ;}
+  .subsubtitle{
+    font-size:25px;
+    padding:100px 0 10px 0;
+      &02{padding:0 0 20px 0 ;}
   }
 
   .section01{
@@ -312,31 +314,34 @@
 
 
   .program-nav{
-    width:100%; height:200px;
-    position:absolute;
-    top:13144px;
+    width:100%; height:100px;
+    position:relative; bottom:100px;
+
     background:black;
     opacity:0.8;
 
 
     &-pre{
       display:block;
-      width:500px;
-      text-align:right; padding:82px 100px 82px 320px;
+      text-align:right;
       float:left;
       font-family:"Century Gothic",sans-serif;
       font-size:30px;
       cursor:pointer;
+
+      position:absolute;left:150px;top:25px;
     }
 
     &-next{
       display:block;
-      width:500px;
-      text-align:left;padding:82px 260px 82px 210px;
+      text-align:left;
       float:right;
       font-family:"Century Gothic",sans-serif;
       font-size:30px;
       cursor:pointer;
+
+
+      position:absolute;right:150px;top:25px;
     }
 
   }

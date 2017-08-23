@@ -48,7 +48,7 @@
 
   <!-----------------------custom music player------------------->
   <div class="music-player-wrap">
-    <audio class="audio" autoplay>
+    <audio class="audio" >
       <source src="../music/PolovtsianDances_Introduzione.mp3"
               type="audio/mpeg" />
     </audio>
@@ -60,7 +60,19 @@
 
     <div class="btn-and-bar">
     <button class="btn play" type="button">play</button>
-    <div class="progress"> <div class="bar"></div> </div>
+    <div class="progress"> <div class="progress-bar"></div> </div>
+    </div>
+
+    <div class="equalizer">
+      <div class="bar-c">
+        <div id="bar-1" class="bar noAnim"></div>
+        <div id="bar-2" class="bar noAnim"></div>
+        <div id="bar-3" class="bar noAnim"></div>
+        <div id="bar-4" class="bar noAnim"></div>
+        <div id="bar-5" class="bar noAnim"></div>
+        <div id="bar-6" class="bar noAnim"></div>
+      </div>
+
     </div>
 
     <div class="current-time">00:00</div>
