@@ -1,14 +1,17 @@
 .program-detail-02{
-  height: 6214px;
+  height: 4139px;
   .section01{
     background:url(../images/program_detail02_bg01.jpg) no-repeat ;
     width:100%;height:980px;
 
     .program-list{
-      &-title{padding-top:200px;}
+      &-title{padding-top:200px;
+        &-sub{margin:10px 60px;}
+      }
+      &-text{margin:100px 0 50px 60px;}
     }
     .music-player-wrap{
-      margin:400px auto 0;
+      margin:300px auto 0;
       padding:50px;}
 
   }
@@ -18,7 +21,7 @@
     width:100%;height:980px;
 
     .section01-2-text01{
-      padding-top:340px;
+      padding-top:300px;
       >p{margin-bottom:15px;}
 
     }
@@ -62,8 +65,7 @@
 
     &-text{
       &05{
-        width:480px; float:right;
-      margin-top:100px;
+
       }
     }
   }
@@ -81,10 +83,6 @@
       width:500px;
       float:right;}
 
-    &-text{
-      width:500px;
-      float:right;}
-
 
   }
   .section05{
@@ -97,11 +95,12 @@
     }
 
     &-text{
-      width:600px; float:right;
+
     }
 
-
   }
+
+
 
   .program-nav{
     width:100%; height:100px;
@@ -139,7 +138,7 @@
 
 
   .subsubtitle{
-    padding:100px 0 20px 0;
+    padding:150px 0 20px 0;
   }
 
 .section-garo

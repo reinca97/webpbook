@@ -162,7 +162,7 @@ h1 {
     .program-list{
       &-title{
         padding-top:100px;
-        &-sub{margin-left:60px;}
+        &-sub{margin:5px 60px;}
       }
     }
 
@@ -170,10 +170,18 @@ h1 {
   }
 
   .music-player-wrap{
-    margin:360px auto 0;
+    margin:300px auto 0;
     padding:50px;
 
+    //program detail 에서만 music player style 변경
+    .music-player{height:140px;}
+    .song-title{position:absolute;top:0;left:0;}
+    .btn{top:40px;}
+    .current-time{position:absolute;top:100px;left:5px;}
+
   }
+
+
 
   .pic-01{float:right;padding-right:20px;}
 
