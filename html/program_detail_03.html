@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="KR">
+<head>
+    <meta charset="UTF-8">
+    <title>[웹프북]가우디움 제9회 연주회</title>
+
+    <link rel="stylesheet" type="text/css" href="../CSS/style.css">
+    <script src="../Javascript/lib/jquery-3.2.1.js"></script>
+    <script src="../Javascript/function.js"></script>
+</head>
+<body>
+
+
+<header class="header">
+
+    <div class="program-menu">
+        <div class="program-menu-program01 active">
+            <a href="program.html" class="program-menu-program-link">PROGRAM</a>
+        </div>
+
+        <div class="program-menu-composer01">
+            <a href="composer.html" class="program-menu-composer-link">COMPOSER</a>
+        </div>
+
+    </div>
+
+
+
+
+    <div class="menu-icon-wrap">
+        <a class="logo-gaudium" href="index.html">gaudium</a>
+        <div class="menu-btn">
+            <button class="menu-text">메뉴버튼</button>
+        </div>
+    </div>
+
+
+
+
+
+
+
+<!--gnb 영역 시작-->
+    <section class="gnb">
+        <button class="gnb-exit-btn" type="button">exit the menu</button>
+
+
+        <div class="gnb-inner-box">
+            <a class="gnb-list" href="../gaudium/player_detail.html">
+                <p class="gnb-list-text-01">공연소개</p>
+                <p class="gnb-list-text-02">Introduce</p>
+                <p class="gnb-list-text-03">연주자와 공연에 대한 소개</p>
+            </a>
+
+            <a class="gnb-list" href="../gaudium/program.html">
+                <p class="gnb-list-text-01">연주곡 목록</p>
+                <p class="gnb-list-text-02">PROGRAM</p>
+                <p class="gnb-list-text-03">연주곡 해설과 미리듣기</p>
+            </a>
+
+            <a class="gnb-list" href="../gaudium/location.html">
+                <p class="gnb-list-text-01">오시는 길</p>
+                <p class="gnb-list-text-02">Directions</p>
+                <p class="gnb-list-text-03">공연 일자와 교통편 안내</p>
+            </a>
+
+            <a class="gnb-list" href="../gaudium/gaudium.html">
+                <p class="gnb-list-text-01">단원 소개</p>
+                <p class="gnb-list-text-02">About Us</p>
+                <p class="gnb-list-text-03">가우디움 단원 소개</p>
+            </a>
+
+            <a class="gnb-list" href="../gaudium/replay.html">
+                <p class="gnb-list-text-01" >다시보기</p>
+                <p class="gnb-list-text-02">Review</p>
+                <p class="gnb-list-text-03">공연과 연습의 현장</p>
+            </a>
+<!--gnb 영역 끝-->
+
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+</header>
+
+
+
+<!--images loading-->
+<div id="container">
+  <div class="stick"></div>
+  <div class="stick"></div>
+  <div class="stick"></div>
+  <div class="stick"></div>
+  <div class="stick"></div>
+  <div class="stick"></div>
+  <h1>이미지 데려오는 중...</h1>
+  <h1>기다려주세요 ㅜ.ㅜ</h1>
+</div>
+
+<!--images loading-->
+
+
+
+
+
+
+<div class="program-detail-03">
+
+
+  <section class="section01 move-section">
+    <div class="inner-box">
+      <h3 class="program-list-title">
+        Pictures at an Exhibition
+      </h3>
+      <h4 class="program-list-title-sub">
+        모데스트 페트로비치 무소르그스키 : 전람회의 그림 (라벨 편곡)
+      </h4>
+
+      <div class="program-list-text01">
+        <p><a href="#promenade">Promenade I</a></p>
+        <p><a href="#gnomus"> I. Gnomus</a></p>
+        <p>Promenade II</p>
+        <p><a href="#castello">II. The Old Castle</a></p>
+        <p>Promenade III</p>
+        <p><a href="#tuileries">III. Tuileries Gardens</a></p>
+        <p><a href="#bydlo">IV. Bydlo</a></p>
+        <p>Promenade IV</p>
+        <p><a href="#coques">V. Ballet of the Unhatched Chicks</a></p>
+      </div>
+
+      <div class="program-list-text02">
+        <p><a href="#two-jews">VI. Samuel Goldenberg und Schmuÿle</a></p>
+        <p><a href="#limoges">VII. The market at Limoges</a></p>
+        <p><a href="#catacombea">VIIIa. Catacombea (Sepulchrum Romanum)</a></p>
+        <p><a href="#catacombea">VIIIb. Cum Mortuis in Lingua Mortua</a></p>
+        <p><a href="#babayaga">IX. The Hut on Chicken's Legs</a></p>
+        <p><a href="#gate-of-kiev">X. The Great Gate of Kiev</a></p>
+      </div>
+    </div>
+
+    <!-----------------------custom music player------------------->
+
+    <div class="music-player-wrap">
+      <audio class="audio" >
+        <source src="../music/PicturesAtAnExhibition_PromenadeI.mp3"
+                type="audio/mpeg" />
+      </audio>
+
+
+      <div class="music-player">
+
+        <div class="song-title">Pictures at an Exhibition: Promenade I</div>
+
+        <div class="btn-and-bar">
+          <button class="btn play" type="button">play</button>
+          <div class="progress"> <div class="progress-bar"></div> </div>
+        </div>
+
+        <div class="equalizer">
+          <div class="bar-c">
+            <div id="bar-1" class="bar noAnim"></div>
+            <div id="bar-2" class="bar noAnim"></div>
+            <div id="bar-3" class="bar noAnim"></div>
+            <div id="bar-4" class="bar noAnim"></div>
+            <div id="bar-5" class="bar noAnim"></div>
+            <div id="bar-6" class="bar noAnim"></div>
+          </div>
+
+        </div>
+
+        <div class="current-time">00:00</div>
+
+      </div>
+
+
+    </div>
+    <!-----------------------end of music player------------------->
+  </section>
+
+
+  <!----------------------info--------------------------------->
+  <section class="section02  move-section ">
+    <div class="inner-box">
+      <div class="section02-text">
+
+        <p>전람회의 그림은 러시아의 작곡가 무소르그스키에 의해 쓰여진 피아노 모음곡이다. </p>
+        <p>총 10곡으로 이루어져 있으며, 각 악장 사이에는 프롬나드가 붙어 있어 각 악장 간의 유기성을 강조한다.</p>
+        <p>무소르그스키의 절친한 친구였던 건축가이자 디자이너, 화가인 빅토르 하르트만이 1873년 사망한 이듬해,
+          블라디미르 스타소프에 의해 하르트만의 유작을 모은 추모 전람회가 개최되었다.</p>
+        <p>이 전람회에 참석한 무소르그스키는 전시된 10개의 그림에서 영감을 받아 같은 해에 모음곡을 완성하였고,
+          전람회를 기획한 스타소프에게 이 곡을 헌정하였다.</p>
+        <p>  이 곡은 원래 피아노곡으로 작곡되었으나, 힘차고 개성적이며
+          색채적인 악상은 보기 드물 만큼 풍부한 관현악적 가능성을 담고 있었다.
+          이를 간파한 많은 음악가가 이 곡의 편곡 작업에 매달렸는데,
+          오늘 가우디움은 프랑스의 저명한 작곡가인 모리스 라벨이 관현악으로 편곡한 버전을 연주한다.</p>
+
+        <p> 전람회의 그림 에 등장하는 그림 중 현재 남아있는 하트만의 작품은 총 6점으로 아래와 같다.</p>
+
+        <div class="hartman-wrap">
+        <div class="hartmann-list">
+          <p><a href="" class="hartmann-list-link hm-link-01">V. Ballet of the Unhatched Chicks</a></p>
+          <p><a href="" class="hartmann-list-link hm-link-02"> VI. Samuel Goldenberg und Schmuÿle (2점)</a></p>
+          <p><a href="" class="hartmann-list-link hm-link-03">VIII. Catacombea (Sepulchrum Romanum)</a></p>
+          <p><a href="" class="hartmann-list-link hm-link-04">IX. The Hut on Chicken's Legs</a></p>
+          <p><a href="" class="hartmann-list-link hm-link-05">X. The Great Gate of Kiev</a></p>
+        </div>
+
+        <div class="hartmann-pic">
+          <img class="hartmann-pic-01" src="../images/Hartmann_chicks.jpg" alt="">
+          <img class="hartmann-pic-02" src="../images/Hartmann_two_Jews.png" alt="">
+          <img class="hartmann-pic-03" src="../images/Hartmann_catacombs.jpg" alt="">
+          <img class="hartmann-pic-04" src="../images/Hartmann_babayaga.jpg" alt="">
+          <img class="hartmann-pic-05" src="../images/Hartmann_gate.jpg" alt="">
+        </div>
+        </div>
+
+      </div>
+    </div>
+</section>
+      <!----------------------promenade --------------------------------->
+
+<section class="section03  move-section " id="promenade">
+      <div class="inner-box">
+        <h3 class="subsubtitle">Promenade I (산책)</h3>
+          <div class="section03-text">
+
+            <p>템포 : Allegro giusto, nel modo russico; Senza allegrezza, ma poco 소스테누토</p>
+
+            <p>
+            프롬나드는 ‘산책’이라는 뜻으로 전람회를 찾은 무소르그스키가
+            하르트만의 작품 사이를 거니는 걸음걸이를 형상화한 것이다. 곡의 사이에 각각 붙어 있다.
+            트럼펫의 솔로로 시작하는 장중하고 당당한 악상이 친구의 유작을 접하는 무소르크스키의 감회를 묘사한다.
+            </p>
+            <p class="Stasov">
+              Stasov의 코멘트 :이 작품에서 무소르크스키는 자신의 모습을 가까이에서
+              보여주기 위해, 이제는 여유롭게,
+              전시회를 돌아 다니며 떠오른 자신의 친구를 생각하면서 자신을 슬프게 묘사한다.</p>
+          </div>
+      </div>
+
+  </section>
+
+
+  <!----------------------gnomus --------------------------------->
+
+  <section class="section04  move-section " id="gnomus">
+
+    <div class="inner-box">
+      <h3 class="subsubtitle">I. Gnomus (난쟁이)</h3>
+      <div class="section04-text">
+        <p>E ♭ minor</p>
+        <p>템포 : Vivo 와 Meno mosso, pesante 번갈아 가며</p>
+        <p class="Stasov">
+          Stasov의 코멘트 : 스케치가 안짱다리로 절뚝거리며 달려가는 조그만 난쟁이를 묘사한다.
+        </p>
+        <p>저음 악기로 연주되는 불규칙하고 저돌적인 악상이 불안정한 느낌을 준다.</p>
+      </div>
+      <h3 class="subsubtitle">Promenade II</h3>
+      <div class="section04-text">
+        <p>목관악기에 의해 연주되는 은근한 음향이 첫 번째 프롬나드보다 더 부드러우며 이어지는 곡의 분위기를 암시한다</p>
+      </div>
+
+
+    </div>
+
+
+
+  </section>
+  <!----------------------il vecchio castello --------------------------------->
+
+  <section class="section05  move-section " id="castello">
+
+    <div class="inner-box">
+      <h3 class="subsubtitle"> II. The Old Castle (Il vecchio castello/고성古城)</h3>
+
+      <div class="section05-text">
+           <p>G ♯ minor</p>
+           <p> 템포 : Andante molto cantabile과 con dolore</p>
+           <p class="Stasov">
+             Stasov의 코멘트 :‘중세의 옛 성 앞에서 음유시인이 노래를 부른다.’
+           </p>
+           <p> 이 악장은 이탈리아 성의 수채화 묘사에 기반한 것으로 생각되며 Ravel의 오케스트레이션에서
+            알토 색소폰 솔로로 묘사된다. 바순이 고적한 성을 떠올리게 하는 선율을 연주하며, 목관악기의 잔향이 애상적이다.
+          </p>
+
+
+        <h3 class="subsubtitle">Promenade III
+          <div class="section05-text">
+            <p>
+              금관악기에 의해 다시 장중하고 힘찬 악상으로 돌아와 다음 곡으로 그대로 이어진다.
+            </p>
+          </div>
+        </h3>
+
+
+      </div>
+    </div>
+
+  </section>
+
+
+
+
+  <!----------------------Tuileries --------------------------------->
+
+  <section class="section06  move-section " id="tuileries">
+
+    <div class="inner-box">
+      <h3 class="subsubtitle">III. Tuileries Gardens (Tuileries /Dispute d'enfants après jeux/튈리르 정원)</h3>
+
+      <div class="section06-text">
+
+        <p>B major</p>
+        <p>템포 : Allegretto non troppo, capriccioso</p>
+        <p class="Stasov">
+          Stasov의 코멘트 : ‘프랑스 튈르리 궁전 정원의 가로수 길에서 아이들과 보모들이 놀고 있다.’
+        </p>
+        <p>
+          오보에와 플루트로 연주되는 밝고 아기자기한 악상이 사랑스럽고 귀여운 느낌을 잘 전해준다.<br>
+          이 곡 다음에는 프롬나드 없이 바로 제‘4곡 비들로’가 온다.
+        </p>
+
+
+      </div>
+    </div>
+
+
+  </section>
+  <!----------------------Bydlo --------------------------------->
+
+  <section class="section07  move-section " id="bydlo">
+
+    <div class="inner-box">
+      <h3 class="subsubtitle">IV. Bydlo(Bydło/소 달구지)</h3>
+      <div class="section07-text">
+        <p>G ♯ minor</p>
+        <p>템포 : Semper moderato, pesante</p>
+        <p class="Stasov">Stasov의 코멘트 :‘커다란 바퀴가 달린 폴란드의 소달구지’</p>
+        <p>
+          저음현의 무겁고 규칙적인 반주 위로 저음 금관이 무게 있는 소떼를 연상시키는 노래를 부른다.
+          소떼가 점점 가까워지듯이 오케스트라 전체로 선율이 확대되면서 클라이맥스에 도달한다.
+          한바탕 소떼가 지나간 뒤에는 다시 그대로 멀어진다.
+        </p>
+      </div>
+
+
+      <h3 class="subsubtitle">Promenade IV</h3>
+        <div class="section07-text">
+          <p>
+            애상적인 단조 선율이 비들로 그림을 보고 난 작곡가의 무겁고 서글픈 걸음걸이를 전해준다.
+          </p>
+        </div>
+
+
+
+    </div>
+
+
+
+  </section>
+  <!----------------------dans luers coques --------------------------------->
+
+  <section class="section08  move-section " id="coques">
+
+
+    <div class="inner-box">
+      <h3 class="subsubtitle">V. Ballet of the Unhatched Chicks</h3>
+      <h2 class="subsubtitle02">(Балет невылупившихся птенцов/des poussins dans leurs coques/덜 부화한 병아리의 춤)</h2>
+
+
+      <div class="section08-text">
+
+        <p>F major</p>
+        <p>템포 : Scherzino (vivo, leggiero)</p>
+        <p class="Stasov">
+          Stasov의 코멘트 :‘하르트만이 어느 발레의 한 장면을 위해 고안한 장식 디자인’
+        </p>
+        <p>
+          목관악기의 불규칙한 리듬이 뒤뚱거리는 병아리의 모습을 귀엽게 묘사한다.
+        </p>
+      </div>
+    </div>
+
+
+
+  </section>
+  <!----------------------two jews --------------------------------->
+
+  <section class="section09  move-section " id="two-jews">
+
+    <div class="inner-box">
+      <h3 class="subsubtitle">VI. Samuel Goldenberg und Schmuÿle (사무엘 골든버그와 슈미엘)</h3>
+
+      <div class="section09-text">
+        <p>B ♭ minor</p>
+        <p>템포 : 안단테. 그레이브 에너지 와 안단티노</p>
+        <p class="Stasov">Stasov의 코멘트 : "2 명의 유태인 : 부자와 가난한 자"( 러시아어 : Два еврея : богатый и бедный )</p>
+
+        <p>
+          ‘사무엘 골덴베르크와 슈미엘’로 알려져 있지만 제목의 출처는 불확실하다.
+          프롬나드 없이 5곡에 이어 연주된다. 현의 거드름스런 악상은 부유한 유대인을,
+          가볍게 빽빽거리는 트럼펫은 가난한 유대인을 묘사하고 있다.
+          둘 사이의 대화는 말다툼으로 이어지고 부유한 유대인이 가난한 쪽을 한 대 치면서 끝난다.
+        </p>
+
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+
+  <!----------------------Limoges --------------------------------->
+
+  <section class="section10  move-section " id="limoges">
+
+    <div class="inner-box">
+      <h3 class="subsubtitle"> VII. The market at Limoges (Limoges, le marché/리모주 시장)</h3>
+
+
+
+      <div class="section10-text">
+        <p> E ♭ major</p>
+        <p>템포 : Allegretto vivo, semper scherzando</p>
+        <p class="Stasov">Stasov의 코멘트 : ‘프랑스의 시장에서 여자들이 격렬하게 싸우고 있다.’</p>
+
+        <p>
+          현과 목관의 부산한 악상이 프랑스의 소도시 시장에서 벌어지는 작은 소동을 묘사한다.<br>
+          이 곡 이후에는 프롬나드와 쉼 없이 아타카로 ‘제8곡 카타콤베’가 연주된다.
+
+        </p>
+
+
+      </div>
+    </div>
+
+  </section>
+
+
+
+  <!----------------------Catacombea --------------------------------->
+
+  <section class="section11  move-section " id="catacombea">
+
+
+    <div class="inner-box">
+
+      <h3 class="subsubtitle">VIIIa. Catacombea (Sepulchrum Romanum/카타콤-로마의 무덤)</h3>
+      VIIIb. Cum Mortuis in Lingua Mortua (With the dead in a dead language)</h3>
+
+
+      <div class="section11-text">
+        <p>B  minor</p>
+        <p>템포 : Largo ( Sepulcrum ) Andante non troppo con lamento ( 콘 모르스 )</p>
+        <p class="Stasov">
+          Stasov의 코멘트 : ‘하르트만이 랜턴을 들고 파리의 카타콤베을 조사하는 자신의 모습을 그린 그림이다.’
+        </p>
+        <p>
+          카타콤베는 로마의 지하 묘지로, 초기 기독교 시대의 기독교인이 많이 묻힌 곳이다.<br>
+          무거운 금관의 합주가 엄숙하고 위압적인 선율을 들려준 이후, 곧장 ‘죽은 언어로 말하는 죽은 사람과 함께(Con mortuis in lingua mortua)’라는 표제가 붙은 프롬나드의 선율이 불길한 느낌의 단조로 제시된다.
+          이 곡 다음에는 바로 ‘제9곡 닭의 다리를 한 오두막’이 온다.
+        </p>
+      </div>
+
+    </div>
+
+
+  </section>
+  <!----------------------babayaga --------------------------------->
+
+  <section class="section12  move-section " id="babayaga">
+
+    <div class="inner-box">
+      <h3 class="subsubtitle">IX. The Hut on Chicken's Legs(Избушка на курьих ножках</h3>
+      <h3 class="subsubtitle02">(Баба-Яга)/닭의 다리를 한 오두막-바바야가)</h3>
+
+
+      <div class="section12-text">
+
+        <p>*"babayaga" 는 슬라브 지역 설화에 등장하는 마녀로, 닭의 다리가 달린 오두막에 살며 젊은
+          남성과 어린이를 잡아먹는다고 전해지며, 러시아에서 '헨젤과 그레텔'과 유사한 동화에도 등장한다.
+        </p>
+
+        <p>템포 : Allegro con brio, feroce 및 Andante mosso</p>
+        <p class="Stasov">
+          Stasov의 코멘트 : ‘하르트만의 그림은 아래에 닭발이 달린 시계 모양을 한 바바야가의 오두막을 묘사하고 있다.’
+        </p>
+
+        <p>
+          변덕스럽고 익살스런 악상이 빗자루를 타고 이리저리 날아다니는 마녀의 모습을 묘사하고 있다.<br>
+          이후 쉼없이 아타카로 ‘제10곡 키예프의 대문’이 온다.
+        </p>
+      </div>
+    </div>
+
+
+
+  </section>
+  <!----------------------gate of kiev --------------------------------->
+
+  <section class="section13  move-section " id="gate-of-kiev">
+
+    <div class="inner-box">
+      <h3 class="subsubtitle">X. The Great Gate of Kiev</h3>
+      <h3 class="subsubtitle02">(Богатырские ворота /В стольном городе во Киеве/키예프의 거대한 문)</h3>
+
+
+      <div class="section13-text">
+        <p>E ♭ major</p>
+        <p>템포 : Maestoso, con grandezza 와 끝까지 확장.</p>
+        <p class="Stasov">
+          Stasov의 코멘트 : ‘키예프 시의 대문을 위한 스케치로, 슬라브 특유의 둥근 지붕 모양을 한 옛 러시아의 힘찬 스타일을 그대로 적용했다.’
+        </p>
+
+        <p>
+          전곡을 마무리하기에 손색이 없는 찬가조의 위풍당당한 악상이 드높이 울려 퍼진다.<br>
+          중간에 ‘프롬나드’의 선율이 인용되어 작곡가 자신이 위압적인 대문을 통과하는
+          성대한 행렬에서 걷고 있는 듯한 느낌을 준다.
+        </p>
+      </div>
+
+    </div>
+
+  </section>
+
+
+
+
+
+<!---------------------------하단 program nav----------------------->
+  <section class="program-nav">
+
+    <a class="program-nav-pre" href="program_detail_02.html">
+    &lt; Prev: Symphony No.2 in B Minor
+    </a>
+
+    <a class="program-nav-next" href="program.html">
+      Return to PROGRAM &gt;
+    </a>
+
+  </section>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>

@@ -41,6 +41,8 @@ gulp.task('include', function(){
       .pipe(gulp.dest("html/"));
 });
 
+
+
 // sass 실행
 gulp.task('sass', function(){
   return gulp.src('css_src/*.scss')

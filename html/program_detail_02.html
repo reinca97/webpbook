@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="KR">
+<head>
+    <meta charset="UTF-8">
+    <title>[웹프북]가우디움 제9회 연주회</title>
+
+    <link rel="stylesheet" type="text/css" href="../CSS/style.css">
+    <script src="../Javascript/lib/jquery-3.2.1.js"></script>
+    <script src="../Javascript/function.js"></script>
+</head>
+<body>
+
+
+<header class="header">
+
+    <div class="program-menu">
+        <div class="program-menu-program01 active">
+            <a href="program.html" class="program-menu-program-link">PROGRAM</a>
+        </div>
+
+        <div class="program-menu-composer01">
+            <a href="composer.html" class="program-menu-composer-link">COMPOSER</a>
+        </div>
+
+    </div>
+
+
+
+
+    <div class="menu-icon-wrap">
+        <a class="logo-gaudium" href="index.html">gaudium</a>
+        <div class="menu-btn">
+            <button class="menu-text">메뉴버튼</button>
+        </div>
+    </div>
+
+
+
+
+
+
+
+<!--gnb 영역 시작-->
+    <section class="gnb">
+        <button class="gnb-exit-btn" type="button">exit the menu</button>
+
+
+        <div class="gnb-inner-box">
+            <a class="gnb-list" href="../gaudium/player_detail.html">
+                <p class="gnb-list-text-01">공연소개</p>
+                <p class="gnb-list-text-02">Introduce</p>
+                <p class="gnb-list-text-03">연주자와 공연에 대한 소개</p>
+            </a>
+
+            <a class="gnb-list" href="../gaudium/program.html">
+                <p class="gnb-list-text-01">연주곡 목록</p>
+                <p class="gnb-list-text-02">PROGRAM</p>
+                <p class="gnb-list-text-03">연주곡 해설과 미리듣기</p>
+            </a>
+
+            <a class="gnb-list" href="../gaudium/location.html">
+                <p class="gnb-list-text-01">오시는 길</p>
+                <p class="gnb-list-text-02">Directions</p>
+                <p class="gnb-list-text-03">공연 일자와 교통편 안내</p>
+            </a>
+
+            <a class="gnb-list" href="../gaudium/gaudium.html">
+                <p class="gnb-list-text-01">단원 소개</p>
+                <p class="gnb-list-text-02">About Us</p>
+                <p class="gnb-list-text-03">가우디움 단원 소개</p>
+            </a>
+
+            <a class="gnb-list" href="../gaudium/replay.html">
+                <p class="gnb-list-text-01" >다시보기</p>
+                <p class="gnb-list-text-02">Review</p>
+                <p class="gnb-list-text-03">공연과 연습의 현장</p>
+            </a>
+<!--gnb 영역 끝-->
+
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+</header>
+
+
+<!--images loading-->
+<div id="container">
+    <div class="stick"></div>
+    <div class="stick"></div>
+    <div class="stick"></div>
+    <div class="stick"></div>
+    <div class="stick"></div>
+    <div class="stick"></div>
+    <h1>이미지 데려오는 중...</h1>
+    <h1>기다려주세요 ㅜ.ㅜ</h1>
+</div>
+
+<!--images loading-->
+
+
+
+
+
+
+<div class="program-detail-02">
+
+
+
+  <section class="section01 move-section">
+    <div class="inner-box">
+      <h3 class="program-list-title">
+        Symphony No. 2 in B Minor
+      </h3>
+        <h4 class="program-list-title-sub">
+            알렉산드르 보로딘 : 교향곡 제2번 b단조
+        </h4>
+
+
+        <div class="program-list-text">
+        <p>I. Allegro</p>
+        <p>II. Scherzo(Prestissimo-Allegretto-Tempo I)</p>
+        <p>III. Andante</p>
+        <p>IV. Finale (Allegro)</p>
+      </div>
+    </div>
+
+    <!-----------------------custom music player------------------->
+
+    <div class="music-player-wrap">
+      <audio class="audio" >
+        <source src="../music/Borodin_Symphony_No.2_1stmov.mp3"
+                type="audio/mpeg" />
+      </audio>
+
+
+      <div class="music-player">
+
+        <div class="song-title">Symphony No. 2 in B Minor: I. Allegro</div>
+
+        <div class="btn-and-bar">
+          <button class="btn play" type="button">play</button>
+          <div class="progress"> <div class="progress-bar"></div> </div>
+        </div>
+
+        <div class="equalizer">
+          <div class="bar-c">
+            <div id="bar-1" class="bar noAnim"></div>
+            <div id="bar-2" class="bar noAnim"></div>
+            <div id="bar-3" class="bar noAnim"></div>
+            <div id="bar-4" class="bar noAnim"></div>
+            <div id="bar-5" class="bar noAnim"></div>
+            <div id="bar-6" class="bar noAnim"></div>
+          </div>
+
+        </div>
+
+        <div class="current-time">00:00</div>
+
+      </div>
+
+
+    </div>
+
+    <!-----------------------end of music player------------------->
+
+  </section>
+
+
+  <!---------------------- 서론--------------------------------->
+    <section class="section01-2 move-section ">
+    <div class="inner-box">
+        <div class="section01-2-text01">
+            <p>
+            보로딘은 총 세 개의 교향곡을 남겼는데, 세 번째 교향곡은 미완으로 남겨졌기 때문에
+            온전히 그가 완성한 마지막 교향곡은 2번 교향곡이라 할 수 있다.</p>
+            <p>
+            1876년 작곡된 교향곡 2번은 러시아 교향곡들 중에서도 유혹적인 선율이 인상적일 뿐만 아니라
+            가장 뛰어나고 독창적인 작품이다. 명지휘자 바인가르트너는 "러시아의 국민성을
+            알려면 차이코프스키의 &lt;비창 교향곡&gt;과 보로딘의 &lt;제2번 교향곡&gt;을
+            듣는 것만으로 충분하다."는 말을 남기기도 했다. 악기 편성은 2관 편성에
+            바탕을 두었지만, 금관 악기가 매우 충실해지고 탬버린, 심벌즈 등의 타악기와
+            하프의 사용이 두드러진다.</p>
+
+        </div>
+    </div>
+    </section>
+
+
+  <!---------------------- 1,2악장--------------------------------->
+  <section class="section03 move-section ">
+
+    <div class="inner-box">
+
+        <h3 class="subsubtitle">1악장 Allegro, B단조, 소나타 형식.</h3>
+
+        <div class="section-garo">
+            <img src="../images/program_detail02_score01.png"
+                 class="program-detail-score01" alt="">
+
+            <div class="section02-text02">
+
+                <p>
+                    악장 전체에 걸쳐 나타나는 장엄한 제1주제와 목관으로 이어지는
+                    선율과 리듬은 대단한 기백과 역동을 불어넣는다.
+                    이에 비해 제2주제는 서정적이며 매우 아름다우며, 이러한 것이
+                    어우러져 중세 러시아의 분위기를 물씬 풍기고 있다.
+                </p>
+            </div>
+        </div>
+
+
+
+      <h3 class="subsubtitle">2악장 Scherzo. Prestissimo, F장조.</h3>
+
+         <div class="section03-text05">
+           <p>
+               생기있는 스케르초풍의 선율과 어디에서도 듣기 힘든 독특한 당김음 리듬이
+               불꽃놀이의 광채처럼 빛난다.
+           </p>
+
+
+
+         </div>
+
+    </div>
+
+  </section>
+
+  <!---------------------- 3,4악장--------------------------------->
+  <section class="section05 move-section">
+    <div class="inner-box">
+
+        <h3 class="subsubtitle">3악장 Andante, D flat장조, 4/4박자, 3부 형식</h3>
+
+
+        <div class="section04-text">
+            <p>
+                가장 서정적이며, 넘치는 감정이 폭발하는 악장이다.
+                하프 반주를 수반한 클라리넷의 독주가 제3악장을 서주하기 시작하고,
+                이윽고 호른이 주요 선율을 노래하기 시작한다. 몸과 마음이 서로 어울리는
+                듯한 아름다운 가락이다. 이것이 동양적인 정서로 이어져 제3주제를 연주하고,
+                그 뒤의 짧은 전개가 굉장한 클라이맥스로 이끌어간다.
+            </p>
+
+        </div>
+
+
+
+      <h3 class="subsubtitle">4악장 Finale. Allegro, B장조, 3/4박자, 소나타 형식.</h3>
+
+
+
+
+      <div class="section05-text">
+        <p>
+            제3악장에 이어 아타카로 들어가는 도입부에 이어 영웅적인 성격의 주
+            요 주제가 높이 불려진다. 동시에 빛나는 전개부가 있으며, 열정을 담은
+            제2주제가 러시아 정서를 대변한다. 곡의 분위기는 조금씩 고조되어
+            가다가 관현의 총합주로 마친다.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+
+  <section class="program-nav">
+
+    <a class="program-nav-pre" href="program_detail_01.html">
+    &lt; Prev: Polovstsian Dances
+    </a>
+
+    <a class="program-nav-next" href="program_detail_03.html">
+      Next: Pictures at an Exhibition &gt;
+    </a>
+
+  </section>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>
