@@ -21,7 +21,8 @@
 
   .section01{
     background: url(../images/composer_bg01.jpg) no-repeat;
-    width:100%;height:980px;
+    width:100%; min-width:1120px;
+    height:980px;
 
     .program-pic-01{
       display:block;
@@ -34,7 +35,8 @@
 
   .section02{
     background: url(../images/composer_bg02.jpg) no-repeat;
-    width:100%;height:980px;
+    width:100%;min-width:1120px;
+    height:980px;
 
     &-text01{
       padding-top:100px;
@@ -58,7 +60,7 @@
 
   .section03{
     background: url(../images/composer_bg01.jpg) no-repeat;
-    width:100%;height:980px;
+    width:100%;min-width:1120px;height:980px;
 
 
     .program-pic-02{
@@ -71,7 +73,7 @@
 
   .section04{
     background: url(../images/composer_bg03.jpg) no-repeat;
-    width:100%;height:980px;
+    width:100%;min-width:1120px;height:980px;
 
     &-text01{
       padding-top:100px;

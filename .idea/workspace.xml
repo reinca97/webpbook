@@ -2,45 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad1be1e3-1e41-46f2-99b3-dced2c866f0e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/WEB_PROGRAM_BOOK.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/webpbook.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/about_us.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/composer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/gaudium.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/intro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/location.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/player_detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/program.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/program_detail_01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/program_detail_02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/program_detail_03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/replay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/replay_detail_00.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/replay_detail_01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/replay_detail_02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/replay_detail_03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaudium/replay_detail_04.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/style.css" afterPath="$PROJECT_DIR$/CSS/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_composer.scss" afterPath="$PROJECT_DIR$/CSS_src/_composer.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_footer.scss" afterPath="$PROJECT_DIR$/CSS_src/_footer.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_header.scss" afterPath="$PROJECT_DIR$/CSS_src/_header.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_gaudium.scss" afterPath="$PROJECT_DIR$/CSS_src/_gaudium.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_location.scss" afterPath="$PROJECT_DIR$/CSS_src/_location.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_player_detail.scss" afterPath="$PROJECT_DIR$/CSS_src/_player_detail.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_program.scss" afterPath="$PROJECT_DIR$/CSS_src/_program.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_program_detail_01.scss" afterPath="$PROJECT_DIR$/CSS_src/_program_detail_01.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_program_detail_02.scss" afterPath="$PROJECT_DIR$/CSS_src/_program_detail_02.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_program_detail_03.scss" afterPath="$PROJECT_DIR$/CSS_src/_program_detail_03.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/style.scss" afterPath="$PROJECT_DIR$/CSS_src/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/about_us.html" afterPath="$PROJECT_DIR$/HTML/about_us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/composer.html" afterPath="$PROJECT_DIR$/HTML/composer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/intro.html" afterPath="$PROJECT_DIR$/HTML/intro.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/location.html" afterPath="$PROJECT_DIR$/HTML/location.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/main.html" afterPath="$PROJECT_DIR$/HTML/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/player_detail.html" afterPath="$PROJECT_DIR$/HTML/player_detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/program.html" afterPath="$PROJECT_DIR$/HTML/program.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/program_detail_01.html" afterPath="$PROJECT_DIR$/HTML/program_detail_01.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/program_detail_02.html" afterPath="$PROJECT_DIR$/HTML/program_detail_02.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/program_detail_03.html" afterPath="$PROJECT_DIR$/HTML/program_detail_03.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/replay.html" afterPath="$PROJECT_DIR$/HTML/replay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/replay_detail_00.html" afterPath="$PROJECT_DIR$/HTML/replay_detail_00.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/replay_detail_01.html" afterPath="$PROJECT_DIR$/HTML/replay_detail_01.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/replay_detail_02.html" afterPath="$PROJECT_DIR$/HTML/replay_detail_02.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/replay_detail_03.html" afterPath="$PROJECT_DIR$/HTML/replay_detail_03.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/replay_detail_04.html" afterPath="$PROJECT_DIR$/HTML/replay_detail_04.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/_include/_footer.html" afterPath="$PROJECT_DIR$/HTML_src/_include/_footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/_include/_header.html" afterPath="$PROJECT_DIR$/HTML_src/_include/_header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/_include/_header_composer.html" afterPath="$PROJECT_DIR$/HTML_src/_include/_header_composer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/_include/_header_program.html" afterPath="$PROJECT_DIR$/HTML_src/_include/_header_program.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/_include/gnb.html" afterPath="$PROJECT_DIR$/HTML_src/_include/gnb.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/composer.html" afterPath="$PROJECT_DIR$/HTML_src/composer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/intro.html" afterPath="$PROJECT_DIR$/HTML_src/intro.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/main.html" afterPath="$PROJECT_DIR$/HTML_src/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/program_detail_01.html" afterPath="$PROJECT_DIR$/HTML_src/program_detail_01.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/program_detail_02.html" afterPath="$PROJECT_DIR$/HTML_src/program_detail_02.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_src/program_detail_03.html" afterPath="$PROJECT_DIR$/HTML_src/program_detail_03.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS_src/_replay.scss" afterPath="$PROJECT_DIR$/CSS_src/_replay.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/about_us.html" afterPath="$PROJECT_DIR$/html/about_us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/composer.html" afterPath="$PROJECT_DIR$/html/composer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/gaudium.html" afterPath="$PROJECT_DIR$/html/gaudium.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/location.html" afterPath="$PROJECT_DIR$/html/location.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/player_detail.html" afterPath="$PROJECT_DIR$/html/player_detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/program.html" afterPath="$PROJECT_DIR$/html/program.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/program_detail_01.html" afterPath="$PROJECT_DIR$/html/program_detail_01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/program_detail_02.html" afterPath="$PROJECT_DIR$/html/program_detail_02.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/program_detail_03.html" afterPath="$PROJECT_DIR$/html/program_detail_03.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/replay.html" afterPath="$PROJECT_DIR$/html/replay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/replay_detail_00.html" afterPath="$PROJECT_DIR$/html/replay_detail_00.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/replay_detail_01.html" afterPath="$PROJECT_DIR$/html/replay_detail_01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/replay_detail_02.html" afterPath="$PROJECT_DIR$/html/replay_detail_02.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/replay_detail_03.html" afterPath="$PROJECT_DIR$/html/replay_detail_03.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/replay_detail_04.html" afterPath="$PROJECT_DIR$/html/replay_detail_04.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/function.js" afterPath="$PROJECT_DIR$/javascript/function.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript_src/program.js" afterPath="$PROJECT_DIR$/javascript_src/program.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,67 +70,24 @@
     <favorites_list name="webpbook" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.52255946">
+    <splitter split-orientation="horizontal" split-proportion="0.48646432">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="program_detail_01.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HTML_src/program_detail_01.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-836">
-                  <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-                  <folding>
-                    <element signature="e#3185#4087#0" expanded="false" />
-                    <element signature="n#section#2;n#div#1;n#!!top" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="composer.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/HTML_src/composer.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="intro.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HTML/intro.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="185">
-                  <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HTML_src/main.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HTML/main.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="gaudium.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HTML/gaudium.html">
+            <entry file="file://$PROJECT_DIR$/html/gaudium.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="458">
-                  <caret line="82" column="30" lean-forward="false" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+                <state relative-caret-position="343">
+                  <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_replay.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/CSS_src/_replay.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="579">
+                  <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
@@ -128,28 +96,8 @@
           <file leaf-file-name="_header.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/HTML_src/_include/_header.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="gaudium.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HTML_src/gaudium.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="183">
-                  <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="player_detail.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HTML_src/player_detail.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="152">
-                  <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+                <state relative-caret-position="293">
+                  <caret line="31" column="37" lean-forward="false" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
                   <folding />
                 </state>
               </provider>
@@ -159,51 +107,21 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="_gnb.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CSS_src/_gnb.scss">
+          <file leaf-file-name="_program.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/CSS_src/_program.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="137">
-                  <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+                <state relative-caret-position="80">
+                  <caret line="54" column="33" lean-forward="false" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="33" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_header.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CSS_src/_header.scss">
+          <file leaf-file-name="_program_detail_03.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_03.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="347">
-                  <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_header_program.scss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/CSS_src/_header_program.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_composer.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CSS_src/_composer.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="368">
-                  <caret line="60" column="15" lean-forward="false" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_gaudium.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CSS_src/_gaudium.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+                <state relative-caret-position="-308">
+                  <caret line="303" column="32" lean-forward="false" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
                   <folding />
                 </state>
               </provider>
@@ -249,6 +167,7 @@
       <find>on('click</find>
       <find>href</find>
       <find>music-player</find>
+      <find>1270</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -257,7 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javascript_src/replay.js" />
         <option value="$PROJECT_DIR$/CSS_src/_main.scss" />
         <option value="$PROJECT_DIR$/javascript_src/gnb_location.js" />
         <option value="$PROJECT_DIR$/CSS/style.css" />
@@ -271,9 +189,6 @@
         <option value="$PROJECT_DIR$/javascript_src/player_detail.js" />
         <option value="$PROJECT_DIR$/HTML/program_detail_02.html" />
         <option value="$PROJECT_DIR$/CSS_src/_about_us.scss" />
-        <option value="$PROJECT_DIR$/CSS_src/_location.scss" />
-        <option value="$PROJECT_DIR$/CSS_src/_program.scss" />
-        <option value="$PROJECT_DIR$/CSS_src/_replay.scss" />
         <option value="$PROJECT_DIR$/CSS_src/_replay_detail.scss" />
         <option value="$PROJECT_DIR$/HTML_src/replay_detail_00.html" />
         <option value="$PROJECT_DIR$/HTML_src/program.html" />
@@ -286,28 +201,32 @@
         <option value="$PROJECT_DIR$/HTML/program_detail_01.html" />
         <option value="$PROJECT_DIR$/HTML_src/program_detail_01.html" />
         <option value="$PROJECT_DIR$/HTML_src/program_detail_02.html" />
-        <option value="$PROJECT_DIR$/CSS_src/_program_detail_02.scss" />
         <option value="$PROJECT_DIR$/HTML_src/program_detail_03.html" />
-        <option value="$PROJECT_DIR$/CSS_src/_program_detail_03.scss" />
         <option value="$PROJECT_DIR$/javascript_src/program.js" />
-        <option value="$PROJECT_DIR$/CSS_src/_player_detail.scss" />
         <option value="$PROJECT_DIR$/HTML_src/_include/_footer.html" />
         <option value="$PROJECT_DIR$/CSS_src/_footer.scss" />
-        <option value="$PROJECT_DIR$/HTML/intro.html" />
         <option value="$PROJECT_DIR$/HTML_src/_include/gnb.html" />
         <option value="$PROJECT_DIR$/CSS_src/style.scss" />
-        <option value="$PROJECT_DIR$/CSS_src/_composer.scss" />
-        <option value="$PROJECT_DIR$/CSS_src/_program_detail_01.scss" />
         <option value="$PROJECT_DIR$/HTML_src/intro.html" />
         <option value="$PROJECT_DIR$/HTML_src/_include/_header.html" />
         <option value="$PROJECT_DIR$/HTML_src/_include/_header_program.html" />
         <option value="$PROJECT_DIR$/HTML_src/_include/_header_composer.html" />
-        <option value="$PROJECT_DIR$/CSS_src/_gaudium.scss" />
         <option value="$PROJECT_DIR$/HTML_src/main.html" />
         <option value="$PROJECT_DIR$/CSS_src/_header.scss" />
         <option value="$PROJECT_DIR$/HTML/gaudium.html" />
         <option value="$PROJECT_DIR$/HTML_src/gaudium.html" />
         <option value="$PROJECT_DIR$/HTML_src/composer.html" />
+        <option value="$PROJECT_DIR$/HTML/intro.html" />
+        <option value="$PROJECT_DIR$/CSS_src/_composer.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_gaudium.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_location.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_player_detail.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_program.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_program_detail_01.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_program_detail_02.scss" />
+        <option value="$PROJECT_DIR$/CSS_src/_program_detail_03.scss" />
+        <option value="$PROJECT_DIR$/html/gaudium.html" />
+        <option value="$PROJECT_DIR$/CSS_src/_replay.scss" />
       </list>
     </option>
   </component>
@@ -424,23 +343,7 @@
             <path>
               <item name="Web_Program_Book" type="b2602c69:ProjectViewProjectNode" />
               <item name="Web_Program_Book" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Web_Program_Book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Program_Book" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML_src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Web_Program_Book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Program_Book" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML_src" type="462c0819:PsiDirectoryNode" />
-              <item name="_include" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Web_Program_Book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Program_Book" type="462c0819:PsiDirectoryNode" />
-              <item name="Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -603,12 +506,14 @@
       <workItem from="1503499449309" duration="3639000" />
       <workItem from="1503564658245" duration="2129000" />
       <workItem from="1503623418515" duration="11340000" />
-      <workItem from="1503643236408" duration="2081000" />
+      <workItem from="1503643236408" duration="2235000" />
+      <workItem from="1503896005825" duration="16000" />
+      <workItem from="1503986960856" duration="2084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147716000" />
+    <option name="totallyTimeSpent" value="149970000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -623,23 +528,23 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14094433" sideWeight="0.43950996" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14094433" sideWeight="0.5604901" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14094433" sideWeight="0.26454294" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14094433" sideWeight="0.73545706" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21475054" sideWeight="0.50210524" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21039903" sideWeight="0.49789473" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12696493" sideWeight="0.49789473" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24216524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -664,27 +569,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML_src/program.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML_src/replay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_replay.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS_src/_reset.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -699,31 +583,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_program.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="80" column="24" lean-forward="false" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/player_detail.html">
+    <entry file="file://$PROJECT_DIR$/html/player_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/replay_detail_01.html">
+    <entry file="file://$PROJECT_DIR$/html/replay_detail_01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_location.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="130" column="15" lean-forward="false" selection-start-line="130" selection-start-column="15" selection-end-line="130" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -734,38 +604,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/program_detail_01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-965">
-          <caret line="21" column="44" lean-forward="false" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/program_detail_02.html">
+    <entry file="file://$PROJECT_DIR$/html/program_detail_02.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="548">
           <caret line="275" column="8" lean-forward="true" selection-start-line="275" selection-start-column="8" selection-end-line="275" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/program_detail_03.html">
+    <entry file="file://$PROJECT_DIR$/html/program_detail_03.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_03.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_player_detail.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="153" column="26" lean-forward="false" selection-start-line="153" selection-start-column="26" selection-end-line="153" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -815,13 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1033">
           <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -895,84 +737,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML_src/about_us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML_src/_include/_header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML_src/intro.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-293">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_01.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="807">
-          <caret line="168" column="0" lean-forward="true" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_02.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding>
-            <element signature="e#1404#1466#0" expanded="false" />
-            <element signature="e#1494#1557#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_gaudium.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_composer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="60" column="15" lean-forward="false" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_gnb.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS_src/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -984,10 +752,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/intro.html">
+    <entry file="file://$PROJECT_DIR$/HTML_src/program_detail_01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        <state relative-caret-position="680">
+          <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+          <folding>
+            <element signature="e#3185#4087#0" expanded="false" />
+            <element signature="n#section#2;n#div#1;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="44" column="27" lean-forward="true" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1000,45 +779,178 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/composer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="53" lean-forward="false" selection-start-line="8" selection-start-column="53" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_composer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_src/composer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML_src/gaudium.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_gnb.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1025">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_location.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2671">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_gaudium.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_player_detail.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-331">
+          <caret line="166" column="31" lean-forward="false" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_01.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="205" column="30" lean-forward="false" selection-start-line="205" selection-start-column="30" selection-end-line="205" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_02.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="127" column="25" lean-forward="false" selection-start-line="127" selection-start-column="25" selection-end-line="127" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_program.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="54" column="33" lean-forward="false" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_program_detail_03.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="303" column="32" lean-forward="false" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/program_detail_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML_src/player_detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        <state relative-caret-position="184">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/gaudium.html">
+    <entry file="file://$PROJECT_DIR$/HTML_src/about_us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="82" column="30" lean-forward="false" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML_src/program_detail_01.html">
+    <entry file="file://$PROJECT_DIR$/HTML_src/_include/_header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-836">
-          <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-          <folding>
-            <element signature="e#3185#4087#0" expanded="false" />
-            <element signature="n#section#2;n#div#1;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="293">
+          <caret line="31" column="37" lean-forward="false" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML_src/composer.html">
+    <entry file="file://$PROJECT_DIR$/html/gaudium.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+        <state relative-caret-position="343">
+          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_src/_replay.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
           <folding />
         </state>
       </provider>
