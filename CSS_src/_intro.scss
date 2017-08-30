@@ -19,7 +19,7 @@ body{
   &-bg {
     background: url(../images/intro_bg.jpg) no-repeat center ;
     //background-size:100% auto;
-    width:100%;height:100%;
+    width:100%;height:1100px;
 
     position: relative;
 
@@ -199,23 +199,23 @@ body {
   animation-iteration-count: infinite;
 }
 
-@keyframes danceHeight1 {
+@keyframes danceHeight1{
   from { height: 1px; }
   to { height: 22px; }
 }
-@keyframes danceHeight2 {
+@keyframes danceHeight2{
   from { height: 1px; }
   to { height: 15px; }
 }
-@keyframes danceHeight3 {
+@keyframes danceHeight3{
   from { height: 1px; }
   to { height: 30px; }
 }
-@keyframes danceHeight4 {
+@keyframes danceHeight4{
   from { height: 1px; }
   to { height: 20px; }
 }
-@keyframes danceHeight5 {
+@keyframes danceHeight5{
   from { height: 1px; }
   to { height: 15px; }
 }

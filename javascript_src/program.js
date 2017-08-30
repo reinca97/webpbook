@@ -54,8 +54,8 @@ window.onload = function () {
         if (event.wheelDelta) {
           delta = event.wheelDelta / 120;
           if (window.opera) delta = -delta;
-        }
-        else if (event.detail) delta = -event.detail / 3;
+        } else if (event.detail)
+            delta = -event.detail / 3;
 
         var moveTop = null;
         // 마우스휠을 위에서 아래로

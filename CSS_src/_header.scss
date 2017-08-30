@@ -37,9 +37,9 @@ display:block;
   }
 
   &-text {
-    background: #fff;
+    background: url(../images/menu_btn.png) no-repeat;
     position: absolute;
-    height: 5px;
+    height: 37px;
     width: 60px;
     display: block;
     outline: 0;
@@ -47,27 +47,28 @@ display:block;
     cursor: pointer;
     text-indent:-9999px;
 
-    &:before {
-      content: "";
-      display: block;
-      background: #fff;
-      position: absolute;
-      top: -15px;
-      left: 0;
-      height: 5px;
-      width: 60px;
 
-    }
-    &:after {
-      content: "";
-      display: block;
-      background: #fff;
-      position: absolute;
-      top: 15px;
-      left: 0;
-      height: 5px;
-      width: 60px;
-    }
+    //&:before {
+    //  content: "";
+    //  display: block;
+    //  background: #fff;
+    //  position: absolute;
+    //  top: -15px;
+    //  left: 0;
+    //  height: 5px;
+    //  width: 60px;
+    //
+    //}
+    //&:after {
+    //  content: "";
+    //  display: block;
+    //  background: #fff;
+    //  position: absolute;
+    //  top: 15px;
+    //  left: 0;
+    //  height: 5px;
+    //  width: 60px;
+    //}
 
   }
 
