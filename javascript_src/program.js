@@ -97,7 +97,7 @@ window.onload = function () {
 
     console.log(href);
 
-    $('body').stop().animate({scrollTop:scrollPosition})
+    $('html,body').stop().animate({scrollTop:scrollPosition})
 
   });
     $('.program-list-text02>p>a').on('click',function(e){
@@ -107,7 +107,7 @@ window.onload = function () {
 
         console.log(href);
 
-        $('body').stop().animate({scrollTop:scrollPosition})
+        $('html,body').stop().animate({scrollTop:scrollPosition})
 
     });
 
