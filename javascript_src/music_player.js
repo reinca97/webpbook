@@ -43,7 +43,7 @@ $(function(){
       $(this).data({'play':true});
 
 
-      $(".bar").removeClass("noAnim");
+      $(".bar").addClass("animate");
 
 
 
@@ -52,8 +52,7 @@ $(function(){
       $(this).removeClass('pause').addClass('play');
       $(this).data({'play':false});
 
-      $(".bar").addClass("noAnim");
-
+      $(".bar").removeClass("animate");
 
     }
 
