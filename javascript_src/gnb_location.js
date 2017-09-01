@@ -1,3 +1,23 @@
+
+//mobile-pc 분기
+
+$(function(){
+    var checker = navigator.userAgent;
+    var checkerNum = checker.indexOf("Mobile");
+
+    console.log(checkerNum);
+
+    if(checkerNum > 0){
+        location.href="http://programbook.co.kr/m/gaudium"
+    }
+    if(location.href="http://programbook.co.kr/index.html"){
+        location.href= "http://programbook.co.kr"
+    }
+
+});
+
+
+
 //toggle top menu
 
 $(function(){
