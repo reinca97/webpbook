@@ -8,11 +8,9 @@ $(function(){
     console.log(checkerNum);
 
     if(checkerNum > 0){
-        location.href="http://programbook.co.kr/m/gaudium"
+        location.href="http://programbook.co.kr/m/gaudium";
     }
-    if(location.href="http://programbook.co.kr/index.html"){
-        location.href= "http://programbook.co.kr"
-    }
+
 
 });
 

@@ -19,7 +19,7 @@ $(function(){
     }else{fixDigit=time;}  //10보다 크면 걍 그대로
     return fixDigit;}
 
-  /////////////runnung time///////////////
+  /////////////running time///////////////
 
   $('audio').on('timeupdate',function(){
     var time= digit( Math.floor($audio.currentTime/60) )+ ':' + digit( Math.floor($audio.currentTime % 60) );
